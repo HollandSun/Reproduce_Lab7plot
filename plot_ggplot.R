@@ -1,7 +1,7 @@
 library(tidyverse)
 library(zoo)
 
-kansas_daily <- read_csv("kansas_usafacts_jul05_aug03_2020.csv", show_col_types = FALSE)
+kansas_daily <- read_csv("kansas_case_jul05_aug03_2020.csv", show_col_types = FALSE)
 
 grouped <- kansas_daily %>%
   filter(!is.na(population), !is.na(daily_new_cases)) %>%
@@ -9,8 +9,7 @@ grouped <- kansas_daily %>%
   summarise(
     total_new = sum(daily_new_cases, na.rm = TRUE),
     total_pop = sum(population, na.rm = TRUE),
-    .groups = "drop"
-  ) %>%
+    .groups = "drop") %>%
   mutate(per_100k = total_new / total_pop * 100000) %>%
   arrange(mask_mandate, date) %>%
   group_by(mask_mandate) %>%
@@ -36,14 +35,12 @@ p1 <- ggplot() +
     breaks = seq(15, 25, by = 2),
     sec.axis = sec_axis(~ . - offset,
                         name = "No Mask",
-                        breaks = seq(4, 14, by = 2))
-  ) +
+                        breaks = seq(4, 14, by = 2))) +
   scale_x_date(date_breaks = "1 day", date_labels = "%m/%d/%Y") +
   labs(
     title = "Kansas COVID-19 7-Day Rolling Average of Daily Cases/Per 100K Population",
     subtitle = "Mask Counties Vs. No-Mask Mandate Counties",
-    caption = "Source: Kansas Department of Health and Environment (via USAFacts)"
-  ) +
+    caption = "Source: Kansas Department of Health and Environment (via USAFacts)") +
   theme_minimal() +
   theme(
     axis.title.y.left  = element_text(color = "darkorange", face = "bold", size = 12),
@@ -53,8 +50,7 @@ p1 <- ggplot() +
     axis.text.x = element_text(angle = 45, hjust = 1, size = 7),
     plot.title         = element_text(face = "bold", size = 13, hjust = 0.5),
     plot.subtitle      = element_text(hjust = 0.5, size = 10),
-    panel.grid.minor   = element_blank()
-  )
+    panel.grid.minor   = element_blank())
 
 print(p1)
 ggsave("misleading_plot.png", p1, width = 18, height = 9, dpi = 800)

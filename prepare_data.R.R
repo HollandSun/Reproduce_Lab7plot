@@ -21,8 +21,7 @@ kansas_cases <- cases_raw %>%
   pivot_longer(
     cols = -c(countyFIPS, `County Name`, State, StateFIPS),
     names_to = "date",
-    values_to = "cumulative_cases"
-  ) %>%
+    values_to = "cumulative_cases") %>%
   mutate(date = ymd(date)) %>%
   select(countyFIPS, `County Name`, date, cumulative_cases)
 
@@ -55,12 +54,11 @@ mask_county_names <- c("Allen", "Atchison", "Bourbon", "Crawford", "Dickinson",
 kansas_daily <- kansas_daily %>%
   mutate(
     county_base = str_remove(`County Name`, " County$"),
-    mask_mandate = ifelse(county_base %in% mask_county_names, "Mask", "No Mask")
-  )
+    mask_mandate = ifelse(county_base %in% mask_county_names, "Mask", "No Mask"))
 
 
 
 kansas_daily <- kansas_daily %>%
   left_join(kansas_pop %>% select(countyFIPS, population), by = "countyFIPS")
-write_csv(kansas_daily, "kansas_usafacts_jul05_aug03_2020.csv")
+write_csv(kansas_daily, "kansas_case_jul05_aug03_2020.csv")
 
