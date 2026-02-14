@@ -41,7 +41,7 @@ p1 <- ggplot() +
   scale_x_date(date_breaks = "1 day", date_labels = "%m/%d/%Y") +
   labs(
     title = "Kansas COVID-19 7-Day Rolling Average of Daily Cases/Per 100K Population",
-    subtitle = "Mask Counties Vs. No-Mask Mandate Counties (MISLEADING: Dual Y-Axis)",
+    subtitle = "Mask Counties Vs. No-Mask Mandate Counties",
     caption = "Source: Kansas Department of Health and Environment (via USAFacts)"
   ) +
   theme_minimal() +
