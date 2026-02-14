@@ -1,0 +1,3046 @@
+countyFIPS,County Name,date,cumulative_cases,daily_new_cases,county_base,mask_mandate,population
+20001,Allen County,2020-07-06,5,1,Allen,Mask,12369
+20001,Allen County,2020-07-07,5,0,Allen,Mask,12369
+20001,Allen County,2020-07-08,5,0,Allen,Mask,12369
+20001,Allen County,2020-07-09,5,0,Allen,Mask,12369
+20001,Allen County,2020-07-10,6,1,Allen,Mask,12369
+20001,Allen County,2020-07-11,6,0,Allen,Mask,12369
+20001,Allen County,2020-07-12,6,0,Allen,Mask,12369
+20001,Allen County,2020-07-13,6,0,Allen,Mask,12369
+20001,Allen County,2020-07-14,6,0,Allen,Mask,12369
+20001,Allen County,2020-07-15,8,2,Allen,Mask,12369
+20001,Allen County,2020-07-16,8,0,Allen,Mask,12369
+20001,Allen County,2020-07-17,9,1,Allen,Mask,12369
+20001,Allen County,2020-07-18,9,0,Allen,Mask,12369
+20001,Allen County,2020-07-19,9,0,Allen,Mask,12369
+20001,Allen County,2020-07-20,10,1,Allen,Mask,12369
+20001,Allen County,2020-07-21,10,0,Allen,Mask,12369
+20001,Allen County,2020-07-22,11,1,Allen,Mask,12369
+20001,Allen County,2020-07-23,11,0,Allen,Mask,12369
+20001,Allen County,2020-07-24,11,0,Allen,Mask,12369
+20001,Allen County,2020-07-25,11,0,Allen,Mask,12369
+20001,Allen County,2020-07-26,11,0,Allen,Mask,12369
+20001,Allen County,2020-07-27,13,2,Allen,Mask,12369
+20001,Allen County,2020-07-28,13,0,Allen,Mask,12369
+20001,Allen County,2020-07-29,13,0,Allen,Mask,12369
+20001,Allen County,2020-07-30,13,0,Allen,Mask,12369
+20001,Allen County,2020-07-31,14,1,Allen,Mask,12369
+20001,Allen County,2020-08-01,14,0,Allen,Mask,12369
+20001,Allen County,2020-08-02,14,0,Allen,Mask,12369
+20001,Allen County,2020-08-03,14,0,Allen,Mask,12369
+20003,Anderson County,2020-07-06,5,1,Anderson,No Mask,7858
+20003,Anderson County,2020-07-07,5,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-08,6,1,Anderson,No Mask,7858
+20003,Anderson County,2020-07-09,6,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-10,8,2,Anderson,No Mask,7858
+20003,Anderson County,2020-07-11,8,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-12,8,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-13,16,8,Anderson,No Mask,7858
+20003,Anderson County,2020-07-14,16,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-15,18,2,Anderson,No Mask,7858
+20003,Anderson County,2020-07-16,18,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-17,22,4,Anderson,No Mask,7858
+20003,Anderson County,2020-07-18,22,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-19,22,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-20,23,1,Anderson,No Mask,7858
+20003,Anderson County,2020-07-21,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-22,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-23,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-24,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-25,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-26,23,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-27,24,1,Anderson,No Mask,7858
+20003,Anderson County,2020-07-28,24,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-29,25,1,Anderson,No Mask,7858
+20003,Anderson County,2020-07-30,25,0,Anderson,No Mask,7858
+20003,Anderson County,2020-07-31,27,2,Anderson,No Mask,7858
+20003,Anderson County,2020-08-01,27,0,Anderson,No Mask,7858
+20003,Anderson County,2020-08-02,27,0,Anderson,No Mask,7858
+20003,Anderson County,2020-08-03,27,0,Anderson,No Mask,7858
+20005,Atchison County,2020-07-06,40,6,Atchison,Mask,16073
+20005,Atchison County,2020-07-07,40,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-08,42,2,Atchison,Mask,16073
+20005,Atchison County,2020-07-09,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-10,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-11,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-12,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-13,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-14,42,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-15,45,3,Atchison,Mask,16073
+20005,Atchison County,2020-07-16,45,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-17,46,1,Atchison,Mask,16073
+20005,Atchison County,2020-07-18,46,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-19,46,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-20,48,2,Atchison,Mask,16073
+20005,Atchison County,2020-07-21,48,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-22,48,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-23,48,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-24,50,2,Atchison,Mask,16073
+20005,Atchison County,2020-07-25,50,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-26,50,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-27,55,5,Atchison,Mask,16073
+20005,Atchison County,2020-07-28,55,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-29,56,1,Atchison,Mask,16073
+20005,Atchison County,2020-07-30,56,0,Atchison,Mask,16073
+20005,Atchison County,2020-07-31,59,3,Atchison,Mask,16073
+20005,Atchison County,2020-08-01,59,0,Atchison,Mask,16073
+20005,Atchison County,2020-08-02,59,0,Atchison,Mask,16073
+20005,Atchison County,2020-08-03,60,1,Atchison,Mask,16073
+20007,Barber County,2020-07-06,2,1,Barber,No Mask,4427
+20007,Barber County,2020-07-07,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-08,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-09,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-10,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-11,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-12,2,0,Barber,No Mask,4427
+20007,Barber County,2020-07-13,3,1,Barber,No Mask,4427
+20007,Barber County,2020-07-14,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-15,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-16,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-17,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-18,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-19,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-20,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-21,3,0,Barber,No Mask,4427
+20007,Barber County,2020-07-22,4,1,Barber,No Mask,4427
+20007,Barber County,2020-07-23,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-24,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-25,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-26,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-27,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-28,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-29,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-30,4,0,Barber,No Mask,4427
+20007,Barber County,2020-07-31,4,0,Barber,No Mask,4427
+20007,Barber County,2020-08-01,4,0,Barber,No Mask,4427
+20007,Barber County,2020-08-02,4,0,Barber,No Mask,4427
+20007,Barber County,2020-08-03,4,0,Barber,No Mask,4427
+20009,Barton County,2020-07-06,55,0,Barton,No Mask,25779
+20009,Barton County,2020-07-07,55,0,Barton,No Mask,25779
+20009,Barton County,2020-07-08,57,2,Barton,No Mask,25779
+20009,Barton County,2020-07-09,57,0,Barton,No Mask,25779
+20009,Barton County,2020-07-10,61,4,Barton,No Mask,25779
+20009,Barton County,2020-07-11,61,0,Barton,No Mask,25779
+20009,Barton County,2020-07-12,61,0,Barton,No Mask,25779
+20009,Barton County,2020-07-13,63,2,Barton,No Mask,25779
+20009,Barton County,2020-07-14,63,0,Barton,No Mask,25779
+20009,Barton County,2020-07-15,64,1,Barton,No Mask,25779
+20009,Barton County,2020-07-16,64,0,Barton,No Mask,25779
+20009,Barton County,2020-07-17,67,3,Barton,No Mask,25779
+20009,Barton County,2020-07-18,67,0,Barton,No Mask,25779
+20009,Barton County,2020-07-19,67,0,Barton,No Mask,25779
+20009,Barton County,2020-07-20,72,5,Barton,No Mask,25779
+20009,Barton County,2020-07-21,72,0,Barton,No Mask,25779
+20009,Barton County,2020-07-22,74,2,Barton,No Mask,25779
+20009,Barton County,2020-07-23,74,0,Barton,No Mask,25779
+20009,Barton County,2020-07-24,80,6,Barton,No Mask,25779
+20009,Barton County,2020-07-25,80,0,Barton,No Mask,25779
+20009,Barton County,2020-07-26,80,0,Barton,No Mask,25779
+20009,Barton County,2020-07-27,84,4,Barton,No Mask,25779
+20009,Barton County,2020-07-28,84,0,Barton,No Mask,25779
+20009,Barton County,2020-07-29,85,1,Barton,No Mask,25779
+20009,Barton County,2020-07-30,85,0,Barton,No Mask,25779
+20009,Barton County,2020-07-31,92,7,Barton,No Mask,25779
+20009,Barton County,2020-08-01,92,0,Barton,No Mask,25779
+20009,Barton County,2020-08-02,92,0,Barton,No Mask,25779
+20009,Barton County,2020-08-03,101,9,Barton,No Mask,25779
+20011,Bourbon County,2020-07-06,35,8,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-07,35,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-08,36,1,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-09,36,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-10,39,3,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-11,39,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-12,39,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-13,42,3,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-14,42,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-15,42,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-16,42,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-17,45,3,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-18,45,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-19,45,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-20,47,2,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-21,47,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-22,47,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-23,47,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-24,49,2,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-25,49,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-26,49,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-27,51,2,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-28,51,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-29,52,1,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-30,52,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-07-31,57,5,Bourbon,Mask,14534
+20011,Bourbon County,2020-08-01,57,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-08-02,57,0,Bourbon,Mask,14534
+20011,Bourbon County,2020-08-03,59,2,Bourbon,Mask,14534
+20013,Brown County,2020-07-06,12,1,Brown,No Mask,9564
+20013,Brown County,2020-07-07,12,0,Brown,No Mask,9564
+20013,Brown County,2020-07-08,12,0,Brown,No Mask,9564
+20013,Brown County,2020-07-09,12,0,Brown,No Mask,9564
+20013,Brown County,2020-07-10,19,7,Brown,No Mask,9564
+20013,Brown County,2020-07-11,19,0,Brown,No Mask,9564
+20013,Brown County,2020-07-12,19,0,Brown,No Mask,9564
+20013,Brown County,2020-07-13,23,4,Brown,No Mask,9564
+20013,Brown County,2020-07-14,23,0,Brown,No Mask,9564
+20013,Brown County,2020-07-15,23,0,Brown,No Mask,9564
+20013,Brown County,2020-07-16,23,0,Brown,No Mask,9564
+20013,Brown County,2020-07-17,24,1,Brown,No Mask,9564
+20013,Brown County,2020-07-18,24,0,Brown,No Mask,9564
+20013,Brown County,2020-07-19,24,0,Brown,No Mask,9564
+20013,Brown County,2020-07-20,25,1,Brown,No Mask,9564
+20013,Brown County,2020-07-21,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-22,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-23,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-24,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-25,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-26,25,0,Brown,No Mask,9564
+20013,Brown County,2020-07-27,27,2,Brown,No Mask,9564
+20013,Brown County,2020-07-28,27,0,Brown,No Mask,9564
+20013,Brown County,2020-07-29,28,1,Brown,No Mask,9564
+20013,Brown County,2020-07-30,28,0,Brown,No Mask,9564
+20013,Brown County,2020-07-31,36,8,Brown,No Mask,9564
+20013,Brown County,2020-08-01,36,0,Brown,No Mask,9564
+20013,Brown County,2020-08-02,36,0,Brown,No Mask,9564
+20013,Brown County,2020-08-03,36,0,Brown,No Mask,9564
+20015,Butler County,2020-07-06,71,12,Butler,No Mask,66911
+20015,Butler County,2020-07-07,71,0,Butler,No Mask,66911
+20015,Butler County,2020-07-08,78,7,Butler,No Mask,66911
+20015,Butler County,2020-07-09,78,0,Butler,No Mask,66911
+20015,Butler County,2020-07-10,92,14,Butler,No Mask,66911
+20015,Butler County,2020-07-11,92,0,Butler,No Mask,66911
+20015,Butler County,2020-07-12,92,0,Butler,No Mask,66911
+20015,Butler County,2020-07-13,105,13,Butler,No Mask,66911
+20015,Butler County,2020-07-14,105,0,Butler,No Mask,66911
+20015,Butler County,2020-07-15,114,9,Butler,No Mask,66911
+20015,Butler County,2020-07-16,114,0,Butler,No Mask,66911
+20015,Butler County,2020-07-17,124,10,Butler,No Mask,66911
+20015,Butler County,2020-07-18,124,0,Butler,No Mask,66911
+20015,Butler County,2020-07-19,124,0,Butler,No Mask,66911
+20015,Butler County,2020-07-20,139,15,Butler,No Mask,66911
+20015,Butler County,2020-07-21,139,0,Butler,No Mask,66911
+20015,Butler County,2020-07-22,144,5,Butler,No Mask,66911
+20015,Butler County,2020-07-23,144,0,Butler,No Mask,66911
+20015,Butler County,2020-07-24,172,28,Butler,No Mask,66911
+20015,Butler County,2020-07-25,172,0,Butler,No Mask,66911
+20015,Butler County,2020-07-26,172,0,Butler,No Mask,66911
+20015,Butler County,2020-07-27,187,15,Butler,No Mask,66911
+20015,Butler County,2020-07-28,187,0,Butler,No Mask,66911
+20015,Butler County,2020-07-29,195,8,Butler,No Mask,66911
+20015,Butler County,2020-07-30,195,0,Butler,No Mask,66911
+20015,Butler County,2020-07-31,215,20,Butler,No Mask,66911
+20015,Butler County,2020-08-01,215,0,Butler,No Mask,66911
+20015,Butler County,2020-08-02,215,0,Butler,No Mask,66911
+20015,Butler County,2020-08-03,237,22,Butler,No Mask,66911
+20017,Chase County,2020-07-06,5,1,Chase,No Mask,2648
+20017,Chase County,2020-07-07,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-08,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-09,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-10,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-11,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-12,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-13,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-14,5,0,Chase,No Mask,2648
+20017,Chase County,2020-07-15,6,1,Chase,No Mask,2648
+20017,Chase County,2020-07-16,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-17,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-18,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-19,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-20,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-21,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-22,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-23,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-24,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-25,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-26,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-27,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-28,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-29,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-30,6,0,Chase,No Mask,2648
+20017,Chase County,2020-07-31,6,0,Chase,No Mask,2648
+20017,Chase County,2020-08-01,6,0,Chase,No Mask,2648
+20017,Chase County,2020-08-02,6,0,Chase,No Mask,2648
+20017,Chase County,2020-08-03,34,28,Chase,No Mask,2648
+20019,Chautauqua County,2020-07-06,4,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-07,4,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-08,5,1,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-09,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-10,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-11,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-12,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-13,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-14,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-15,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-16,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-17,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-18,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-19,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-20,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-21,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-22,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-23,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-24,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-25,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-26,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-27,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-28,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-29,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-30,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-07-31,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-08-01,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-08-02,5,0,Chautauqua,No Mask,3250
+20019,Chautauqua County,2020-08-03,5,0,Chautauqua,No Mask,3250
+20021,Cherokee County,2020-07-06,40,9,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-07,40,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-08,43,3,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-09,43,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-10,47,4,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-11,47,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-12,47,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-13,54,7,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-14,54,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-15,57,3,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-16,57,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-17,59,2,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-18,59,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-19,59,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-20,62,3,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-21,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-22,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-23,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-24,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-25,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-26,62,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-27,66,4,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-28,66,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-29,68,2,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-30,68,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-07-31,70,2,Cherokee,No Mask,19939
+20021,Cherokee County,2020-08-01,70,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-08-02,70,0,Cherokee,No Mask,19939
+20021,Cherokee County,2020-08-03,74,4,Cherokee,No Mask,19939
+20023,Cheyenne County,2020-07-06,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-07,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-08,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-09,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-10,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-11,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-12,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-13,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-14,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-15,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-16,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-17,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-18,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-19,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-20,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-21,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-22,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-23,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-24,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-25,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-26,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-27,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-28,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-29,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-30,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-07-31,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-08-01,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-08-02,2,0,Cheyenne,No Mask,2657
+20023,Cheyenne County,2020-08-03,2,0,Cheyenne,No Mask,2657
+20025,Clark County,2020-07-06,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-07,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-08,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-09,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-10,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-11,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-12,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-13,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-14,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-15,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-16,34,0,Clark,No Mask,1994
+20025,Clark County,2020-07-17,36,2,Clark,No Mask,1994
+20025,Clark County,2020-07-18,36,0,Clark,No Mask,1994
+20025,Clark County,2020-07-19,36,0,Clark,No Mask,1994
+20025,Clark County,2020-07-20,38,2,Clark,No Mask,1994
+20025,Clark County,2020-07-21,38,0,Clark,No Mask,1994
+20025,Clark County,2020-07-22,38,0,Clark,No Mask,1994
+20025,Clark County,2020-07-23,38,0,Clark,No Mask,1994
+20025,Clark County,2020-07-24,40,2,Clark,No Mask,1994
+20025,Clark County,2020-07-25,40,0,Clark,No Mask,1994
+20025,Clark County,2020-07-26,40,0,Clark,No Mask,1994
+20025,Clark County,2020-07-27,41,1,Clark,No Mask,1994
+20025,Clark County,2020-07-28,41,0,Clark,No Mask,1994
+20025,Clark County,2020-07-29,42,1,Clark,No Mask,1994
+20025,Clark County,2020-07-30,42,0,Clark,No Mask,1994
+20025,Clark County,2020-07-31,44,2,Clark,No Mask,1994
+20025,Clark County,2020-08-01,44,0,Clark,No Mask,1994
+20025,Clark County,2020-08-02,44,0,Clark,No Mask,1994
+20025,Clark County,2020-08-03,44,0,Clark,No Mask,1994
+20027,Clay County,2020-07-06,9,2,Clay,No Mask,8002
+20027,Clay County,2020-07-07,9,0,Clay,No Mask,8002
+20027,Clay County,2020-07-08,9,0,Clay,No Mask,8002
+20027,Clay County,2020-07-09,9,0,Clay,No Mask,8002
+20027,Clay County,2020-07-10,10,1,Clay,No Mask,8002
+20027,Clay County,2020-07-11,10,0,Clay,No Mask,8002
+20027,Clay County,2020-07-12,10,0,Clay,No Mask,8002
+20027,Clay County,2020-07-13,12,2,Clay,No Mask,8002
+20027,Clay County,2020-07-14,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-15,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-16,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-17,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-18,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-19,12,0,Clay,No Mask,8002
+20027,Clay County,2020-07-20,13,1,Clay,No Mask,8002
+20027,Clay County,2020-07-21,13,0,Clay,No Mask,8002
+20027,Clay County,2020-07-22,13,0,Clay,No Mask,8002
+20027,Clay County,2020-07-23,13,0,Clay,No Mask,8002
+20027,Clay County,2020-07-24,15,2,Clay,No Mask,8002
+20027,Clay County,2020-07-25,15,0,Clay,No Mask,8002
+20027,Clay County,2020-07-26,15,0,Clay,No Mask,8002
+20027,Clay County,2020-07-27,17,2,Clay,No Mask,8002
+20027,Clay County,2020-07-28,17,0,Clay,No Mask,8002
+20027,Clay County,2020-07-29,17,0,Clay,No Mask,8002
+20027,Clay County,2020-07-30,17,0,Clay,No Mask,8002
+20027,Clay County,2020-07-31,18,1,Clay,No Mask,8002
+20027,Clay County,2020-08-01,18,0,Clay,No Mask,8002
+20027,Clay County,2020-08-02,18,0,Clay,No Mask,8002
+20027,Clay County,2020-08-03,19,1,Clay,No Mask,8002
+20029,Cloud County,2020-07-06,24,6,Cloud,No Mask,8786
+20029,Cloud County,2020-07-07,24,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-08,25,1,Cloud,No Mask,8786
+20029,Cloud County,2020-07-09,25,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-10,26,1,Cloud,No Mask,8786
+20029,Cloud County,2020-07-11,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-12,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-13,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-14,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-15,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-16,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-17,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-18,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-19,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-20,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-21,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-22,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-23,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-24,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-25,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-26,26,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-27,28,2,Cloud,No Mask,8786
+20029,Cloud County,2020-07-28,28,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-29,28,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-30,28,0,Cloud,No Mask,8786
+20029,Cloud County,2020-07-31,29,1,Cloud,No Mask,8786
+20029,Cloud County,2020-08-01,29,0,Cloud,No Mask,8786
+20029,Cloud County,2020-08-02,29,0,Cloud,No Mask,8786
+20029,Cloud County,2020-08-03,30,1,Cloud,No Mask,8786
+20031,Coffey County,2020-07-06,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-07,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-08,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-09,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-10,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-11,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-12,53,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-13,55,2,Coffey,No Mask,8179
+20031,Coffey County,2020-07-14,55,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-15,57,2,Coffey,No Mask,8179
+20031,Coffey County,2020-07-16,57,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-17,59,2,Coffey,No Mask,8179
+20031,Coffey County,2020-07-18,59,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-19,59,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-20,61,2,Coffey,No Mask,8179
+20031,Coffey County,2020-07-21,61,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-22,62,1,Coffey,No Mask,8179
+20031,Coffey County,2020-07-23,62,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-24,63,1,Coffey,No Mask,8179
+20031,Coffey County,2020-07-25,63,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-26,63,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-27,65,2,Coffey,No Mask,8179
+20031,Coffey County,2020-07-28,65,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-29,65,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-30,65,0,Coffey,No Mask,8179
+20031,Coffey County,2020-07-31,67,2,Coffey,No Mask,8179
+20031,Coffey County,2020-08-01,67,0,Coffey,No Mask,8179
+20031,Coffey County,2020-08-02,67,0,Coffey,No Mask,8179
+20031,Coffey County,2020-08-03,68,1,Coffey,No Mask,8179
+20033,Comanche County,2020-07-06,3,1,Comanche,No Mask,1700
+20033,Comanche County,2020-07-07,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-08,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-09,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-10,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-11,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-12,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-13,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-14,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-15,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-16,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-17,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-18,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-19,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-20,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-21,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-22,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-23,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-24,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-25,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-26,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-27,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-28,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-29,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-30,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-07-31,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-08-01,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-08-02,3,0,Comanche,No Mask,1700
+20033,Comanche County,2020-08-03,3,0,Comanche,No Mask,1700
+20035,Cowley County,2020-07-06,76,5,Cowley,No Mask,34908
+20035,Cowley County,2020-07-07,76,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-08,77,1,Cowley,No Mask,34908
+20035,Cowley County,2020-07-09,77,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-10,79,2,Cowley,No Mask,34908
+20035,Cowley County,2020-07-11,79,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-12,79,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-13,87,8,Cowley,No Mask,34908
+20035,Cowley County,2020-07-14,87,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-15,90,3,Cowley,No Mask,34908
+20035,Cowley County,2020-07-16,90,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-17,97,7,Cowley,No Mask,34908
+20035,Cowley County,2020-07-18,97,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-19,97,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-20,118,21,Cowley,No Mask,34908
+20035,Cowley County,2020-07-21,118,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-22,118,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-23,118,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-24,128,10,Cowley,No Mask,34908
+20035,Cowley County,2020-07-25,128,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-26,128,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-27,140,12,Cowley,No Mask,34908
+20035,Cowley County,2020-07-28,140,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-29,146,6,Cowley,No Mask,34908
+20035,Cowley County,2020-07-30,146,0,Cowley,No Mask,34908
+20035,Cowley County,2020-07-31,151,5,Cowley,No Mask,34908
+20035,Cowley County,2020-08-01,151,0,Cowley,No Mask,34908
+20035,Cowley County,2020-08-02,151,0,Cowley,No Mask,34908
+20035,Cowley County,2020-08-03,158,7,Cowley,No Mask,34908
+20037,Crawford County,2020-07-06,278,15,Crawford,Mask,38818
+20037,Crawford County,2020-07-07,278,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-08,294,16,Crawford,Mask,38818
+20037,Crawford County,2020-07-09,294,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-10,301,7,Crawford,Mask,38818
+20037,Crawford County,2020-07-11,301,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-12,301,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-13,316,15,Crawford,Mask,38818
+20037,Crawford County,2020-07-14,316,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-15,328,12,Crawford,Mask,38818
+20037,Crawford County,2020-07-16,328,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-17,332,4,Crawford,Mask,38818
+20037,Crawford County,2020-07-18,332,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-19,332,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-20,351,19,Crawford,Mask,38818
+20037,Crawford County,2020-07-21,351,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-22,360,9,Crawford,Mask,38818
+20037,Crawford County,2020-07-23,360,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-24,367,7,Crawford,Mask,38818
+20037,Crawford County,2020-07-25,367,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-26,367,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-27,373,6,Crawford,Mask,38818
+20037,Crawford County,2020-07-28,373,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-29,375,2,Crawford,Mask,38818
+20037,Crawford County,2020-07-30,375,0,Crawford,Mask,38818
+20037,Crawford County,2020-07-31,380,5,Crawford,Mask,38818
+20037,Crawford County,2020-08-01,380,0,Crawford,Mask,38818
+20037,Crawford County,2020-08-02,380,0,Crawford,Mask,38818
+20037,Crawford County,2020-08-03,391,11,Crawford,Mask,38818
+20039,Decatur County,2020-07-06,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-07,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-08,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-09,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-10,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-11,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-12,0,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-13,2,2,Decatur,No Mask,2827
+20039,Decatur County,2020-07-14,2,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-15,3,1,Decatur,No Mask,2827
+20039,Decatur County,2020-07-16,3,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-17,4,1,Decatur,No Mask,2827
+20039,Decatur County,2020-07-18,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-19,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-20,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-21,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-22,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-23,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-24,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-25,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-26,4,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-27,5,1,Decatur,No Mask,2827
+20039,Decatur County,2020-07-28,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-29,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-30,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-07-31,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-08-01,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-08-02,5,0,Decatur,No Mask,2827
+20039,Decatur County,2020-08-03,5,0,Decatur,No Mask,2827
+20041,Dickinson County,2020-07-06,10,2,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-07,10,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-08,12,2,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-09,12,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-10,15,3,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-11,15,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-12,15,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-13,20,5,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-14,20,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-15,22,2,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-16,22,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-17,24,2,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-18,24,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-19,24,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-20,32,8,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-21,32,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-22,32,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-23,32,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-24,33,1,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-25,33,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-26,33,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-27,36,3,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-28,36,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-29,37,1,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-30,37,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-07-31,37,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-08-01,37,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-08-02,37,0,Dickinson,Mask,18466
+20041,Dickinson County,2020-08-03,39,2,Dickinson,Mask,18466
+20043,Doniphan County,2020-07-06,27,1,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-07,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-08,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-09,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-10,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-11,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-12,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-13,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-14,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-15,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-16,27,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-17,28,1,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-18,28,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-19,28,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-20,32,4,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-21,32,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-22,34,2,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-23,34,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-24,39,5,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-25,39,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-26,39,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-27,40,1,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-28,40,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-29,41,1,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-30,41,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-07-31,42,1,Doniphan,No Mask,7600
+20043,Doniphan County,2020-08-01,42,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-08-02,42,0,Doniphan,No Mask,7600
+20043,Doniphan County,2020-08-03,43,1,Doniphan,No Mask,7600
+20045,Douglas County,2020-07-06,354,166,Douglas,Mask,122259
+20045,Douglas County,2020-07-07,354,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-08,377,23,Douglas,Mask,122259
+20045,Douglas County,2020-07-09,377,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-10,415,38,Douglas,Mask,122259
+20045,Douglas County,2020-07-11,415,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-12,415,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-13,456,41,Douglas,Mask,122259
+20045,Douglas County,2020-07-14,456,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-15,490,34,Douglas,Mask,122259
+20045,Douglas County,2020-07-16,490,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-17,504,14,Douglas,Mask,122259
+20045,Douglas County,2020-07-18,504,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-19,504,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-20,537,33,Douglas,Mask,122259
+20045,Douglas County,2020-07-21,537,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-22,552,15,Douglas,Mask,122259
+20045,Douglas County,2020-07-23,552,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-24,597,45,Douglas,Mask,122259
+20045,Douglas County,2020-07-25,597,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-26,597,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-27,616,19,Douglas,Mask,122259
+20045,Douglas County,2020-07-28,616,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-29,632,16,Douglas,Mask,122259
+20045,Douglas County,2020-07-30,632,0,Douglas,Mask,122259
+20045,Douglas County,2020-07-31,663,31,Douglas,Mask,122259
+20045,Douglas County,2020-08-01,663,0,Douglas,Mask,122259
+20045,Douglas County,2020-08-02,663,0,Douglas,Mask,122259
+20045,Douglas County,2020-08-03,685,22,Douglas,Mask,122259
+20047,Edwards County,2020-07-06,7,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-07,7,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-08,7,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-09,7,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-10,8,1,Edwards,No Mask,2798
+20047,Edwards County,2020-07-11,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-12,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-13,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-14,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-15,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-16,8,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-17,9,1,Edwards,No Mask,2798
+20047,Edwards County,2020-07-18,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-19,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-20,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-21,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-22,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-23,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-24,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-25,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-26,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-27,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-28,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-29,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-30,9,0,Edwards,No Mask,2798
+20047,Edwards County,2020-07-31,10,1,Edwards,No Mask,2798
+20047,Edwards County,2020-08-01,10,0,Edwards,No Mask,2798
+20047,Edwards County,2020-08-02,10,0,Edwards,No Mask,2798
+20047,Edwards County,2020-08-03,10,0,Edwards,No Mask,2798
+20049,Elk County,2020-07-06,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-07,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-08,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-09,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-10,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-11,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-12,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-13,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-14,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-15,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-16,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-17,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-18,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-19,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-20,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-21,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-22,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-23,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-24,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-25,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-26,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-27,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-28,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-29,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-30,1,0,Elk,No Mask,2530
+20049,Elk County,2020-07-31,1,0,Elk,No Mask,2530
+20049,Elk County,2020-08-01,1,0,Elk,No Mask,2530
+20049,Elk County,2020-08-02,1,0,Elk,No Mask,2530
+20049,Elk County,2020-08-03,1,0,Elk,No Mask,2530
+20051,Ellis County,2020-07-06,30,7,Ellis,No Mask,28553
+20051,Ellis County,2020-07-07,30,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-08,35,5,Ellis,No Mask,28553
+20051,Ellis County,2020-07-09,35,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-10,44,9,Ellis,No Mask,28553
+20051,Ellis County,2020-07-11,44,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-12,44,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-13,57,13,Ellis,No Mask,28553
+20051,Ellis County,2020-07-14,57,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-15,67,10,Ellis,No Mask,28553
+20051,Ellis County,2020-07-16,67,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-17,80,13,Ellis,No Mask,28553
+20051,Ellis County,2020-07-18,80,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-19,80,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-20,90,10,Ellis,No Mask,28553
+20051,Ellis County,2020-07-21,90,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-22,99,9,Ellis,No Mask,28553
+20051,Ellis County,2020-07-23,99,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-24,107,8,Ellis,No Mask,28553
+20051,Ellis County,2020-07-25,107,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-26,107,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-27,115,8,Ellis,No Mask,28553
+20051,Ellis County,2020-07-28,115,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-29,127,12,Ellis,No Mask,28553
+20051,Ellis County,2020-07-30,127,0,Ellis,No Mask,28553
+20051,Ellis County,2020-07-31,130,3,Ellis,No Mask,28553
+20051,Ellis County,2020-08-01,130,0,Ellis,No Mask,28553
+20051,Ellis County,2020-08-02,130,0,Ellis,No Mask,28553
+20051,Ellis County,2020-08-03,135,5,Ellis,No Mask,28553
+20053,Ellsworth County,2020-07-06,10,6,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-07,10,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-08,11,1,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-09,11,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-10,11,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-11,11,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-12,11,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-13,14,3,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-14,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-15,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-16,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-17,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-18,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-19,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-20,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-21,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-22,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-23,14,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-24,15,1,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-25,15,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-26,15,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-27,16,1,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-28,16,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-29,18,2,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-30,18,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-07-31,18,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-08-01,18,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-08-02,18,0,Ellsworth,No Mask,6102
+20053,Ellsworth County,2020-08-03,18,0,Ellsworth,No Mask,6102
+20055,Finney County,2020-07-06,1584,10,Finney,No Mask,36467
+20055,Finney County,2020-07-07,1584,0,Finney,No Mask,36467
+20055,Finney County,2020-07-08,1586,2,Finney,No Mask,36467
+20055,Finney County,2020-07-09,1595,9,Finney,No Mask,36467
+20055,Finney County,2020-07-10,1604,9,Finney,No Mask,36467
+20055,Finney County,2020-07-11,1604,0,Finney,No Mask,36467
+20055,Finney County,2020-07-12,1604,0,Finney,No Mask,36467
+20055,Finney County,2020-07-13,1605,1,Finney,No Mask,36467
+20055,Finney County,2020-07-14,1608,3,Finney,No Mask,36467
+20055,Finney County,2020-07-15,1613,5,Finney,No Mask,36467
+20055,Finney County,2020-07-16,1620,7,Finney,No Mask,36467
+20055,Finney County,2020-07-17,1624,4,Finney,No Mask,36467
+20055,Finney County,2020-07-18,1624,0,Finney,No Mask,36467
+20055,Finney County,2020-07-19,1624,0,Finney,No Mask,36467
+20055,Finney County,2020-07-20,1628,4,Finney,No Mask,36467
+20055,Finney County,2020-07-21,1646,18,Finney,No Mask,36467
+20055,Finney County,2020-07-22,1652,6,Finney,No Mask,36467
+20055,Finney County,2020-07-23,1652,0,Finney,No Mask,36467
+20055,Finney County,2020-07-24,1672,20,Finney,No Mask,36467
+20055,Finney County,2020-07-25,1672,0,Finney,No Mask,36467
+20055,Finney County,2020-07-26,1672,0,Finney,No Mask,36467
+20055,Finney County,2020-07-27,1688,16,Finney,No Mask,36467
+20055,Finney County,2020-07-28,1691,3,Finney,No Mask,36467
+20055,Finney County,2020-07-29,1708,17,Finney,No Mask,36467
+20055,Finney County,2020-07-30,1716,8,Finney,No Mask,36467
+20055,Finney County,2020-07-31,1737,21,Finney,No Mask,36467
+20055,Finney County,2020-08-01,1737,0,Finney,No Mask,36467
+20055,Finney County,2020-08-02,1737,0,Finney,No Mask,36467
+20055,Finney County,2020-08-03,1740,3,Finney,No Mask,36467
+20057,Ford County,2020-07-06,2016,8,Ford,No Mask,33619
+20057,Ford County,2020-07-07,2016,0,Ford,No Mask,33619
+20057,Ford County,2020-07-08,2021,5,Ford,No Mask,33619
+20057,Ford County,2020-07-09,2021,0,Ford,No Mask,33619
+20057,Ford County,2020-07-10,2028,7,Ford,No Mask,33619
+20057,Ford County,2020-07-11,2028,0,Ford,No Mask,33619
+20057,Ford County,2020-07-12,2028,0,Ford,No Mask,33619
+20057,Ford County,2020-07-13,2039,11,Ford,No Mask,33619
+20057,Ford County,2020-07-14,2039,0,Ford,No Mask,33619
+20057,Ford County,2020-07-15,2046,7,Ford,No Mask,33619
+20057,Ford County,2020-07-16,2046,0,Ford,No Mask,33619
+20057,Ford County,2020-07-17,2053,7,Ford,No Mask,33619
+20057,Ford County,2020-07-18,2053,0,Ford,No Mask,33619
+20057,Ford County,2020-07-19,2053,0,Ford,No Mask,33619
+20057,Ford County,2020-07-20,2061,8,Ford,No Mask,33619
+20057,Ford County,2020-07-21,2061,0,Ford,No Mask,33619
+20057,Ford County,2020-07-22,2065,4,Ford,No Mask,33619
+20057,Ford County,2020-07-23,2065,0,Ford,No Mask,33619
+20057,Ford County,2020-07-24,2069,4,Ford,No Mask,33619
+20057,Ford County,2020-07-25,2069,0,Ford,No Mask,33619
+20057,Ford County,2020-07-26,2069,0,Ford,No Mask,33619
+20057,Ford County,2020-07-27,2075,6,Ford,No Mask,33619
+20057,Ford County,2020-07-28,2075,0,Ford,No Mask,33619
+20057,Ford County,2020-07-29,2087,12,Ford,No Mask,33619
+20057,Ford County,2020-07-30,2087,0,Ford,No Mask,33619
+20057,Ford County,2020-07-31,2106,19,Ford,No Mask,33619
+20057,Ford County,2020-08-01,2106,0,Ford,No Mask,33619
+20057,Ford County,2020-08-02,2106,0,Ford,No Mask,33619
+20057,Ford County,2020-08-03,2121,15,Ford,No Mask,33619
+20059,Franklin County,2020-07-06,77,5,Franklin,Mask,25544
+20059,Franklin County,2020-07-07,77,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-08,80,3,Franklin,Mask,25544
+20059,Franklin County,2020-07-09,80,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-10,89,9,Franklin,Mask,25544
+20059,Franklin County,2020-07-11,89,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-12,89,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-13,93,4,Franklin,Mask,25544
+20059,Franklin County,2020-07-14,93,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-15,99,6,Franklin,Mask,25544
+20059,Franklin County,2020-07-16,99,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-17,102,3,Franklin,Mask,25544
+20059,Franklin County,2020-07-18,102,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-19,102,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-20,118,16,Franklin,Mask,25544
+20059,Franklin County,2020-07-21,118,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-22,124,6,Franklin,Mask,25544
+20059,Franklin County,2020-07-23,124,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-24,135,11,Franklin,Mask,25544
+20059,Franklin County,2020-07-25,135,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-26,135,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-27,142,7,Franklin,Mask,25544
+20059,Franklin County,2020-07-28,142,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-29,147,5,Franklin,Mask,25544
+20059,Franklin County,2020-07-30,147,0,Franklin,Mask,25544
+20059,Franklin County,2020-07-31,150,3,Franklin,Mask,25544
+20059,Franklin County,2020-08-01,150,0,Franklin,Mask,25544
+20059,Franklin County,2020-08-02,150,0,Franklin,Mask,25544
+20059,Franklin County,2020-08-03,159,9,Franklin,Mask,25544
+20061,Geary County,2020-07-06,95,25,Geary,Mask,31670
+20061,Geary County,2020-07-07,95,0,Geary,Mask,31670
+20061,Geary County,2020-07-08,101,6,Geary,Mask,31670
+20061,Geary County,2020-07-09,101,0,Geary,Mask,31670
+20061,Geary County,2020-07-10,115,14,Geary,Mask,31670
+20061,Geary County,2020-07-11,115,0,Geary,Mask,31670
+20061,Geary County,2020-07-12,115,0,Geary,Mask,31670
+20061,Geary County,2020-07-13,119,4,Geary,Mask,31670
+20061,Geary County,2020-07-14,119,0,Geary,Mask,31670
+20061,Geary County,2020-07-15,126,7,Geary,Mask,31670
+20061,Geary County,2020-07-16,126,0,Geary,Mask,31670
+20061,Geary County,2020-07-17,139,13,Geary,Mask,31670
+20061,Geary County,2020-07-18,139,0,Geary,Mask,31670
+20061,Geary County,2020-07-19,139,0,Geary,Mask,31670
+20061,Geary County,2020-07-20,145,6,Geary,Mask,31670
+20061,Geary County,2020-07-21,145,0,Geary,Mask,31670
+20061,Geary County,2020-07-22,160,15,Geary,Mask,31670
+20061,Geary County,2020-07-23,160,0,Geary,Mask,31670
+20061,Geary County,2020-07-24,173,13,Geary,Mask,31670
+20061,Geary County,2020-07-25,173,0,Geary,Mask,31670
+20061,Geary County,2020-07-26,173,0,Geary,Mask,31670
+20061,Geary County,2020-07-27,176,3,Geary,Mask,31670
+20061,Geary County,2020-07-28,176,0,Geary,Mask,31670
+20061,Geary County,2020-07-29,177,1,Geary,Mask,31670
+20061,Geary County,2020-07-30,177,0,Geary,Mask,31670
+20061,Geary County,2020-07-31,179,2,Geary,Mask,31670
+20061,Geary County,2020-08-01,179,0,Geary,Mask,31670
+20061,Geary County,2020-08-02,179,0,Geary,Mask,31670
+20061,Geary County,2020-08-03,181,2,Geary,Mask,31670
+20063,Gove County,2020-07-06,2,1,Gove,Mask,2636
+20063,Gove County,2020-07-07,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-08,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-09,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-10,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-11,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-12,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-13,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-14,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-15,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-16,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-17,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-18,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-19,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-20,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-21,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-22,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-23,2,0,Gove,Mask,2636
+20063,Gove County,2020-07-24,3,1,Gove,Mask,2636
+20063,Gove County,2020-07-25,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-26,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-27,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-28,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-29,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-30,3,0,Gove,Mask,2636
+20063,Gove County,2020-07-31,3,0,Gove,Mask,2636
+20063,Gove County,2020-08-01,3,0,Gove,Mask,2636
+20063,Gove County,2020-08-02,3,0,Gove,Mask,2636
+20063,Gove County,2020-08-03,3,0,Gove,Mask,2636
+20065,Graham County,2020-07-06,2,2,Graham,No Mask,2482
+20065,Graham County,2020-07-07,2,0,Graham,No Mask,2482
+20065,Graham County,2020-07-08,3,1,Graham,No Mask,2482
+20065,Graham County,2020-07-09,3,0,Graham,No Mask,2482
+20065,Graham County,2020-07-10,6,3,Graham,No Mask,2482
+20065,Graham County,2020-07-11,6,0,Graham,No Mask,2482
+20065,Graham County,2020-07-12,6,0,Graham,No Mask,2482
+20065,Graham County,2020-07-13,7,1,Graham,No Mask,2482
+20065,Graham County,2020-07-14,7,0,Graham,No Mask,2482
+20065,Graham County,2020-07-15,8,1,Graham,No Mask,2482
+20065,Graham County,2020-07-16,8,0,Graham,No Mask,2482
+20065,Graham County,2020-07-17,8,0,Graham,No Mask,2482
+20065,Graham County,2020-07-18,8,0,Graham,No Mask,2482
+20065,Graham County,2020-07-19,8,0,Graham,No Mask,2482
+20065,Graham County,2020-07-20,9,1,Graham,No Mask,2482
+20065,Graham County,2020-07-21,9,0,Graham,No Mask,2482
+20065,Graham County,2020-07-22,10,1,Graham,No Mask,2482
+20065,Graham County,2020-07-23,10,0,Graham,No Mask,2482
+20065,Graham County,2020-07-24,10,0,Graham,No Mask,2482
+20065,Graham County,2020-07-25,10,0,Graham,No Mask,2482
+20065,Graham County,2020-07-26,10,0,Graham,No Mask,2482
+20065,Graham County,2020-07-27,15,5,Graham,No Mask,2482
+20065,Graham County,2020-07-28,15,0,Graham,No Mask,2482
+20065,Graham County,2020-07-29,16,1,Graham,No Mask,2482
+20065,Graham County,2020-07-30,16,0,Graham,No Mask,2482
+20065,Graham County,2020-07-31,17,1,Graham,No Mask,2482
+20065,Graham County,2020-08-01,17,0,Graham,No Mask,2482
+20065,Graham County,2020-08-02,17,0,Graham,No Mask,2482
+20065,Graham County,2020-08-03,17,0,Graham,No Mask,2482
+20067,Grant County,2020-07-06,51,5,Grant,No Mask,7150
+20067,Grant County,2020-07-07,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-08,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-09,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-10,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-11,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-12,51,0,Grant,No Mask,7150
+20067,Grant County,2020-07-13,55,4,Grant,No Mask,7150
+20067,Grant County,2020-07-14,55,0,Grant,No Mask,7150
+20067,Grant County,2020-07-15,59,4,Grant,No Mask,7150
+20067,Grant County,2020-07-16,59,0,Grant,No Mask,7150
+20067,Grant County,2020-07-17,66,7,Grant,No Mask,7150
+20067,Grant County,2020-07-18,66,0,Grant,No Mask,7150
+20067,Grant County,2020-07-19,66,0,Grant,No Mask,7150
+20067,Grant County,2020-07-20,69,3,Grant,No Mask,7150
+20067,Grant County,2020-07-21,69,0,Grant,No Mask,7150
+20067,Grant County,2020-07-22,71,2,Grant,No Mask,7150
+20067,Grant County,2020-07-23,71,0,Grant,No Mask,7150
+20067,Grant County,2020-07-24,78,7,Grant,No Mask,7150
+20067,Grant County,2020-07-25,78,0,Grant,No Mask,7150
+20067,Grant County,2020-07-26,78,0,Grant,No Mask,7150
+20067,Grant County,2020-07-27,78,0,Grant,No Mask,7150
+20067,Grant County,2020-07-28,78,0,Grant,No Mask,7150
+20067,Grant County,2020-07-29,79,1,Grant,No Mask,7150
+20067,Grant County,2020-07-30,79,0,Grant,No Mask,7150
+20067,Grant County,2020-07-31,80,1,Grant,No Mask,7150
+20067,Grant County,2020-08-01,80,0,Grant,No Mask,7150
+20067,Grant County,2020-08-02,80,0,Grant,No Mask,7150
+20067,Grant County,2020-08-03,82,2,Grant,No Mask,7150
+20069,Gray County,2020-07-06,27,1,Gray,No Mask,5988
+20069,Gray County,2020-07-07,27,0,Gray,No Mask,5988
+20069,Gray County,2020-07-08,28,1,Gray,No Mask,5988
+20069,Gray County,2020-07-09,28,0,Gray,No Mask,5988
+20069,Gray County,2020-07-10,30,2,Gray,No Mask,5988
+20069,Gray County,2020-07-11,30,0,Gray,No Mask,5988
+20069,Gray County,2020-07-12,30,0,Gray,No Mask,5988
+20069,Gray County,2020-07-13,34,4,Gray,No Mask,5988
+20069,Gray County,2020-07-14,34,0,Gray,No Mask,5988
+20069,Gray County,2020-07-15,36,2,Gray,No Mask,5988
+20069,Gray County,2020-07-16,36,0,Gray,No Mask,5988
+20069,Gray County,2020-07-17,39,3,Gray,No Mask,5988
+20069,Gray County,2020-07-18,39,0,Gray,No Mask,5988
+20069,Gray County,2020-07-19,39,0,Gray,No Mask,5988
+20069,Gray County,2020-07-20,42,3,Gray,No Mask,5988
+20069,Gray County,2020-07-21,42,0,Gray,No Mask,5988
+20069,Gray County,2020-07-22,44,2,Gray,No Mask,5988
+20069,Gray County,2020-07-23,44,0,Gray,No Mask,5988
+20069,Gray County,2020-07-24,47,3,Gray,No Mask,5988
+20069,Gray County,2020-07-25,47,0,Gray,No Mask,5988
+20069,Gray County,2020-07-26,47,0,Gray,No Mask,5988
+20069,Gray County,2020-07-27,54,7,Gray,No Mask,5988
+20069,Gray County,2020-07-28,54,0,Gray,No Mask,5988
+20069,Gray County,2020-07-29,57,3,Gray,No Mask,5988
+20069,Gray County,2020-07-30,57,0,Gray,No Mask,5988
+20069,Gray County,2020-07-31,64,7,Gray,No Mask,5988
+20069,Gray County,2020-08-01,64,0,Gray,No Mask,5988
+20069,Gray County,2020-08-02,64,0,Gray,No Mask,5988
+20069,Gray County,2020-08-03,69,5,Gray,No Mask,5988
+20071,Greeley County,2020-07-06,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-07,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-08,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-09,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-10,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-11,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-12,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-13,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-14,0,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-15,2,2,Greeley,No Mask,1232
+20071,Greeley County,2020-07-16,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-17,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-18,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-19,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-20,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-21,2,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-22,3,1,Greeley,No Mask,1232
+20071,Greeley County,2020-07-23,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-24,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-25,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-26,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-27,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-28,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-29,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-30,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-07-31,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-08-01,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-08-02,3,0,Greeley,No Mask,1232
+20071,Greeley County,2020-08-03,3,0,Greeley,No Mask,1232
+20073,Greenwood County,2020-07-06,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-07,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-08,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-09,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-10,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-11,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-12,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-13,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-14,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-15,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-16,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-17,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-18,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-19,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-20,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-21,11,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-22,13,2,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-23,13,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-24,14,1,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-25,14,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-26,14,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-27,14,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-28,14,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-29,15,1,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-30,15,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-07-31,15,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-08-01,15,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-08-02,15,0,Greenwood,No Mask,5982
+20073,Greenwood County,2020-08-03,16,1,Greenwood,No Mask,5982
+20075,Hamilton County,2020-07-06,35,2,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-07,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-08,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-09,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-10,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-11,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-12,35,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-13,36,1,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-14,36,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-15,38,2,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-16,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-17,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-18,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-19,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-20,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-21,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-22,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-23,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-24,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-25,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-26,38,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-27,39,1,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-28,39,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-29,40,1,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-30,40,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-07-31,41,1,Hamilton,No Mask,2539
+20075,Hamilton County,2020-08-01,41,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-08-02,41,0,Hamilton,No Mask,2539
+20075,Hamilton County,2020-08-03,41,0,Hamilton,No Mask,2539
+20077,Harper County,2020-07-06,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-07,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-08,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-09,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-10,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-11,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-12,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-13,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-14,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-15,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-16,2,0,Harper,No Mask,5436
+20077,Harper County,2020-07-17,4,2,Harper,No Mask,5436
+20077,Harper County,2020-07-18,4,0,Harper,No Mask,5436
+20077,Harper County,2020-07-19,4,0,Harper,No Mask,5436
+20077,Harper County,2020-07-20,6,2,Harper,No Mask,5436
+20077,Harper County,2020-07-21,6,0,Harper,No Mask,5436
+20077,Harper County,2020-07-22,6,0,Harper,No Mask,5436
+20077,Harper County,2020-07-23,6,0,Harper,No Mask,5436
+20077,Harper County,2020-07-24,8,2,Harper,No Mask,5436
+20077,Harper County,2020-07-25,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-26,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-27,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-28,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-29,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-30,8,0,Harper,No Mask,5436
+20077,Harper County,2020-07-31,8,0,Harper,No Mask,5436
+20077,Harper County,2020-08-01,8,0,Harper,No Mask,5436
+20077,Harper County,2020-08-02,8,0,Harper,No Mask,5436
+20077,Harper County,2020-08-03,9,1,Harper,No Mask,5436
+20079,Harvey County,2020-07-06,52,13,Harvey,Mask,34429
+20079,Harvey County,2020-07-07,52,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-08,55,3,Harvey,Mask,34429
+20079,Harvey County,2020-07-09,55,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-10,66,11,Harvey,Mask,34429
+20079,Harvey County,2020-07-11,66,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-12,66,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-13,90,24,Harvey,Mask,34429
+20079,Harvey County,2020-07-14,90,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-15,99,9,Harvey,Mask,34429
+20079,Harvey County,2020-07-16,99,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-17,108,9,Harvey,Mask,34429
+20079,Harvey County,2020-07-18,108,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-19,108,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-20,119,11,Harvey,Mask,34429
+20079,Harvey County,2020-07-21,119,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-22,127,8,Harvey,Mask,34429
+20079,Harvey County,2020-07-23,127,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-24,140,13,Harvey,Mask,34429
+20079,Harvey County,2020-07-25,140,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-26,140,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-27,143,3,Harvey,Mask,34429
+20079,Harvey County,2020-07-28,143,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-29,150,7,Harvey,Mask,34429
+20079,Harvey County,2020-07-30,150,0,Harvey,Mask,34429
+20079,Harvey County,2020-07-31,165,15,Harvey,Mask,34429
+20079,Harvey County,2020-08-01,165,0,Harvey,Mask,34429
+20079,Harvey County,2020-08-02,165,0,Harvey,Mask,34429
+20079,Harvey County,2020-08-03,180,15,Harvey,Mask,34429
+20081,Haskell County,2020-07-06,30,6,Haskell,No Mask,3968
+20081,Haskell County,2020-07-07,30,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-08,30,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-09,30,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-10,34,4,Haskell,No Mask,3968
+20081,Haskell County,2020-07-11,34,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-12,34,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-13,35,1,Haskell,No Mask,3968
+20081,Haskell County,2020-07-14,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-15,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-16,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-17,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-18,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-19,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-20,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-21,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-22,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-23,35,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-24,38,3,Haskell,No Mask,3968
+20081,Haskell County,2020-07-25,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-26,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-27,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-28,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-29,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-30,38,0,Haskell,No Mask,3968
+20081,Haskell County,2020-07-31,39,1,Haskell,No Mask,3968
+20081,Haskell County,2020-08-01,39,0,Haskell,No Mask,3968
+20081,Haskell County,2020-08-02,39,0,Haskell,No Mask,3968
+20081,Haskell County,2020-08-03,39,0,Haskell,No Mask,3968
+20083,Hodgeman County,2020-07-06,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-07,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-08,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-09,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-10,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-11,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-12,9,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-13,10,1,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-14,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-15,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-16,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-17,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-18,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-19,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-20,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-21,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-22,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-23,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-24,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-25,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-26,10,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-27,11,1,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-28,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-29,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-30,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-07-31,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-08-01,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-08-02,11,0,Hodgeman,No Mask,1794
+20083,Hodgeman County,2020-08-03,11,0,Hodgeman,No Mask,1794
+20085,Jackson County,2020-07-06,116,4,Jackson,No Mask,13171
+20085,Jackson County,2020-07-07,116,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-08,117,1,Jackson,No Mask,13171
+20085,Jackson County,2020-07-09,117,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-10,117,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-11,117,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-12,117,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-13,123,6,Jackson,No Mask,13171
+20085,Jackson County,2020-07-14,123,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-15,124,1,Jackson,No Mask,13171
+20085,Jackson County,2020-07-16,124,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-17,125,1,Jackson,No Mask,13171
+20085,Jackson County,2020-07-18,125,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-19,125,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-20,130,5,Jackson,No Mask,13171
+20085,Jackson County,2020-07-21,130,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-22,131,1,Jackson,No Mask,13171
+20085,Jackson County,2020-07-23,131,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-24,131,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-25,131,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-26,131,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-27,134,3,Jackson,No Mask,13171
+20085,Jackson County,2020-07-28,134,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-29,138,4,Jackson,No Mask,13171
+20085,Jackson County,2020-07-30,138,0,Jackson,No Mask,13171
+20085,Jackson County,2020-07-31,143,5,Jackson,No Mask,13171
+20085,Jackson County,2020-08-01,143,0,Jackson,No Mask,13171
+20085,Jackson County,2020-08-02,143,0,Jackson,No Mask,13171
+20085,Jackson County,2020-08-03,144,1,Jackson,No Mask,13171
+20087,Jefferson County,2020-07-06,31,5,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-07,31,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-08,33,2,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-09,33,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-10,37,4,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-11,37,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-12,37,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-13,37,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-14,37,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-15,39,2,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-16,39,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-17,41,2,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-18,41,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-19,41,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-20,43,2,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-21,43,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-22,44,1,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-23,44,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-24,46,2,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-25,46,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-26,46,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-27,51,5,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-28,51,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-29,56,5,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-30,56,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-07-31,61,5,Jefferson,No Mask,19043
+20087,Jefferson County,2020-08-01,61,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-08-02,61,0,Jefferson,No Mask,19043
+20087,Jefferson County,2020-08-03,72,11,Jefferson,No Mask,19043
+20089,Jewell County,2020-07-06,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-07,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-08,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-09,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-10,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-11,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-12,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-13,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-14,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-15,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-16,4,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-17,5,1,Jewell,Mask,2879
+20089,Jewell County,2020-07-18,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-19,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-20,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-21,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-22,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-23,5,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-24,7,2,Jewell,Mask,2879
+20089,Jewell County,2020-07-25,7,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-26,7,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-27,8,1,Jewell,Mask,2879
+20089,Jewell County,2020-07-28,8,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-29,8,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-30,8,0,Jewell,Mask,2879
+20089,Jewell County,2020-07-31,9,1,Jewell,Mask,2879
+20089,Jewell County,2020-08-01,9,0,Jewell,Mask,2879
+20089,Jewell County,2020-08-02,9,0,Jewell,Mask,2879
+20089,Jewell County,2020-08-03,10,1,Jewell,Mask,2879
+20091,Johnson County,2020-07-06,2349,479,Johnson,Mask,602401
+20091,Johnson County,2020-07-07,2356,7,Johnson,Mask,602401
+20091,Johnson County,2020-07-08,2565,209,Johnson,Mask,602401
+20091,Johnson County,2020-07-09,2633,68,Johnson,Mask,602401
+20091,Johnson County,2020-07-10,2804,171,Johnson,Mask,602401
+20091,Johnson County,2020-07-11,2857,53,Johnson,Mask,602401
+20091,Johnson County,2020-07-12,2967,110,Johnson,Mask,602401
+20091,Johnson County,2020-07-13,3160,193,Johnson,Mask,602401
+20091,Johnson County,2020-07-14,3160,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-15,3370,210,Johnson,Mask,602401
+20091,Johnson County,2020-07-16,3370,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-17,3654,284,Johnson,Mask,602401
+20091,Johnson County,2020-07-18,3654,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-19,3744,90,Johnson,Mask,602401
+20091,Johnson County,2020-07-20,3933,189,Johnson,Mask,602401
+20091,Johnson County,2020-07-21,3933,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-22,4158,225,Johnson,Mask,602401
+20091,Johnson County,2020-07-23,4158,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-24,4381,223,Johnson,Mask,602401
+20091,Johnson County,2020-07-25,4381,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-26,4455,74,Johnson,Mask,602401
+20091,Johnson County,2020-07-27,4643,188,Johnson,Mask,602401
+20091,Johnson County,2020-07-28,4643,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-29,4813,170,Johnson,Mask,602401
+20091,Johnson County,2020-07-30,4813,0,Johnson,Mask,602401
+20091,Johnson County,2020-07-31,4995,182,Johnson,Mask,602401
+20091,Johnson County,2020-08-01,5014,19,Johnson,Mask,602401
+20091,Johnson County,2020-08-02,5074,60,Johnson,Mask,602401
+20091,Johnson County,2020-08-03,5252,178,Johnson,Mask,602401
+20093,Kearny County,2020-07-06,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-07,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-08,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-09,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-10,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-11,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-12,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-13,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-14,48,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-15,50,2,Kearny,No Mask,3838
+20093,Kearny County,2020-07-16,50,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-17,52,2,Kearny,No Mask,3838
+20093,Kearny County,2020-07-18,52,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-19,52,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-20,52,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-21,52,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-22,53,1,Kearny,No Mask,3838
+20093,Kearny County,2020-07-23,53,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-24,53,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-25,53,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-26,53,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-27,54,1,Kearny,No Mask,3838
+20093,Kearny County,2020-07-28,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-29,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-30,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-07-31,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-08-01,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-08-02,54,0,Kearny,No Mask,3838
+20093,Kearny County,2020-08-03,55,1,Kearny,No Mask,3838
+20095,Kingman County,2020-07-06,1,1,Kingman,No Mask,7152
+20095,Kingman County,2020-07-07,1,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-08,1,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-09,1,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-10,4,3,Kingman,No Mask,7152
+20095,Kingman County,2020-07-11,4,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-12,4,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-13,4,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-14,4,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-15,5,1,Kingman,No Mask,7152
+20095,Kingman County,2020-07-16,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-17,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-18,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-19,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-20,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-21,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-22,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-23,5,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-24,6,1,Kingman,No Mask,7152
+20095,Kingman County,2020-07-25,6,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-26,6,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-27,7,1,Kingman,No Mask,7152
+20095,Kingman County,2020-07-28,7,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-29,8,1,Kingman,No Mask,7152
+20095,Kingman County,2020-07-30,8,0,Kingman,No Mask,7152
+20095,Kingman County,2020-07-31,9,1,Kingman,No Mask,7152
+20095,Kingman County,2020-08-01,9,0,Kingman,No Mask,7152
+20095,Kingman County,2020-08-02,9,0,Kingman,No Mask,7152
+20095,Kingman County,2020-08-03,10,1,Kingman,No Mask,7152
+20097,Kiowa County,2020-07-06,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-07,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-08,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-09,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-10,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-11,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-12,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-13,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-14,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-15,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-16,3,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-17,5,2,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-18,5,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-19,5,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-20,5,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-21,5,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-22,6,1,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-23,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-24,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-25,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-26,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-27,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-28,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-29,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-30,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-07-31,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-08-01,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-08-02,6,0,Kiowa,No Mask,2475
+20097,Kiowa County,2020-08-03,6,0,Kiowa,No Mask,2475
+20099,Labette County,2020-07-06,64,3,Labette,No Mask,19618
+20099,Labette County,2020-07-07,64,0,Labette,No Mask,19618
+20099,Labette County,2020-07-08,64,0,Labette,No Mask,19618
+20099,Labette County,2020-07-09,64,0,Labette,No Mask,19618
+20099,Labette County,2020-07-10,66,2,Labette,No Mask,19618
+20099,Labette County,2020-07-11,66,0,Labette,No Mask,19618
+20099,Labette County,2020-07-12,66,0,Labette,No Mask,19618
+20099,Labette County,2020-07-13,75,9,Labette,No Mask,19618
+20099,Labette County,2020-07-14,75,0,Labette,No Mask,19618
+20099,Labette County,2020-07-15,76,1,Labette,No Mask,19618
+20099,Labette County,2020-07-16,76,0,Labette,No Mask,19618
+20099,Labette County,2020-07-17,86,10,Labette,No Mask,19618
+20099,Labette County,2020-07-18,86,0,Labette,No Mask,19618
+20099,Labette County,2020-07-19,86,0,Labette,No Mask,19618
+20099,Labette County,2020-07-20,92,6,Labette,No Mask,19618
+20099,Labette County,2020-07-21,92,0,Labette,No Mask,19618
+20099,Labette County,2020-07-22,103,11,Labette,No Mask,19618
+20099,Labette County,2020-07-23,103,0,Labette,No Mask,19618
+20099,Labette County,2020-07-24,106,3,Labette,No Mask,19618
+20099,Labette County,2020-07-25,106,0,Labette,No Mask,19618
+20099,Labette County,2020-07-26,106,0,Labette,No Mask,19618
+20099,Labette County,2020-07-27,109,3,Labette,No Mask,19618
+20099,Labette County,2020-07-28,109,0,Labette,No Mask,19618
+20099,Labette County,2020-07-29,109,0,Labette,No Mask,19618
+20099,Labette County,2020-07-30,109,0,Labette,No Mask,19618
+20099,Labette County,2020-07-31,109,0,Labette,No Mask,19618
+20099,Labette County,2020-08-01,109,0,Labette,No Mask,19618
+20099,Labette County,2020-08-02,109,0,Labette,No Mask,19618
+20099,Labette County,2020-08-03,110,1,Labette,No Mask,19618
+20101,Lane County,2020-07-06,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-07,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-08,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-09,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-10,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-11,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-12,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-13,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-14,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-15,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-16,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-17,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-18,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-19,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-20,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-21,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-22,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-23,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-24,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-25,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-26,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-27,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-28,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-29,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-30,5,0,Lane,No Mask,1535
+20101,Lane County,2020-07-31,5,0,Lane,No Mask,1535
+20101,Lane County,2020-08-01,5,0,Lane,No Mask,1535
+20101,Lane County,2020-08-02,5,0,Lane,No Mask,1535
+20101,Lane County,2020-08-03,5,0,Lane,No Mask,1535
+20103,Leavenworth County,2020-07-06,1194,21,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-07,1194,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-08,1200,6,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-09,1200,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-10,1232,32,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-11,1232,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-12,1232,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-13,1248,16,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-14,1248,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-15,1264,16,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-16,1264,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-17,1274,10,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-18,1274,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-19,1274,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-20,1306,32,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-21,1306,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-22,1333,27,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-23,1333,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-24,1372,39,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-25,1372,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-26,1372,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-27,1392,20,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-28,1392,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-29,1406,14,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-30,1406,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-07-31,1422,16,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-08-01,1422,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-08-02,1422,0,Leavenworth,No Mask,81758
+20103,Leavenworth County,2020-08-03,1457,35,Leavenworth,No Mask,81758
+20105,Lincoln County,2020-07-06,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-07,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-08,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-09,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-10,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-11,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-12,1,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-13,2,1,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-14,2,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-15,4,2,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-16,4,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-17,5,1,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-18,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-19,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-20,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-21,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-22,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-23,5,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-24,6,1,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-25,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-26,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-27,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-28,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-29,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-30,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-07-31,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-08-01,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-08-02,6,0,Lincoln,No Mask,2962
+20105,Lincoln County,2020-08-03,6,0,Lincoln,No Mask,2962
+20107,Linn County,2020-07-06,16,1,Linn,No Mask,9703
+20107,Linn County,2020-07-07,16,0,Linn,No Mask,9703
+20107,Linn County,2020-07-08,16,0,Linn,No Mask,9703
+20107,Linn County,2020-07-09,16,0,Linn,No Mask,9703
+20107,Linn County,2020-07-10,17,1,Linn,No Mask,9703
+20107,Linn County,2020-07-11,17,0,Linn,No Mask,9703
+20107,Linn County,2020-07-12,17,0,Linn,No Mask,9703
+20107,Linn County,2020-07-13,18,1,Linn,No Mask,9703
+20107,Linn County,2020-07-14,18,0,Linn,No Mask,9703
+20107,Linn County,2020-07-15,19,1,Linn,No Mask,9703
+20107,Linn County,2020-07-16,19,0,Linn,No Mask,9703
+20107,Linn County,2020-07-17,21,2,Linn,No Mask,9703
+20107,Linn County,2020-07-18,21,0,Linn,No Mask,9703
+20107,Linn County,2020-07-19,21,0,Linn,No Mask,9703
+20107,Linn County,2020-07-20,23,2,Linn,No Mask,9703
+20107,Linn County,2020-07-21,23,0,Linn,No Mask,9703
+20107,Linn County,2020-07-22,25,2,Linn,No Mask,9703
+20107,Linn County,2020-07-23,25,0,Linn,No Mask,9703
+20107,Linn County,2020-07-24,26,1,Linn,No Mask,9703
+20107,Linn County,2020-07-25,26,0,Linn,No Mask,9703
+20107,Linn County,2020-07-26,26,0,Linn,No Mask,9703
+20107,Linn County,2020-07-27,28,2,Linn,No Mask,9703
+20107,Linn County,2020-07-28,28,0,Linn,No Mask,9703
+20107,Linn County,2020-07-29,30,2,Linn,No Mask,9703
+20107,Linn County,2020-07-30,30,0,Linn,No Mask,9703
+20107,Linn County,2020-07-31,33,3,Linn,No Mask,9703
+20107,Linn County,2020-08-01,33,0,Linn,No Mask,9703
+20107,Linn County,2020-08-02,33,0,Linn,No Mask,9703
+20107,Linn County,2020-08-03,38,5,Linn,No Mask,9703
+20109,Logan County,2020-07-06,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-07,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-08,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-09,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-10,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-11,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-12,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-13,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-14,1,0,Logan,No Mask,2794
+20109,Logan County,2020-07-15,2,1,Logan,No Mask,2794
+20109,Logan County,2020-07-16,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-17,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-18,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-19,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-20,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-21,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-22,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-23,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-24,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-25,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-26,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-27,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-28,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-29,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-30,2,0,Logan,No Mask,2794
+20109,Logan County,2020-07-31,2,0,Logan,No Mask,2794
+20109,Logan County,2020-08-01,2,0,Logan,No Mask,2794
+20109,Logan County,2020-08-02,2,0,Logan,No Mask,2794
+20109,Logan County,2020-08-03,2,0,Logan,No Mask,2794
+20111,Lyon County,2020-07-06,501,9,Lyon,No Mask,33195
+20111,Lyon County,2020-07-07,501,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-08,501,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-09,501,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-10,508,7,Lyon,No Mask,33195
+20111,Lyon County,2020-07-11,508,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-12,508,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-13,523,15,Lyon,No Mask,33195
+20111,Lyon County,2020-07-14,523,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-15,528,5,Lyon,No Mask,33195
+20111,Lyon County,2020-07-16,528,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-17,540,12,Lyon,No Mask,33195
+20111,Lyon County,2020-07-18,540,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-19,540,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-20,552,12,Lyon,No Mask,33195
+20111,Lyon County,2020-07-21,552,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-22,558,6,Lyon,No Mask,33195
+20111,Lyon County,2020-07-23,558,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-24,586,28,Lyon,No Mask,33195
+20111,Lyon County,2020-07-25,586,0,Lyon,No Mask,33195
+20111,Lyon County,2020-07-26,600,14,Lyon,No Mask,33195
+20111,Lyon County,2020-07-27,608,8,Lyon,No Mask,33195
+20111,Lyon County,2020-07-28,624,16,Lyon,No Mask,33195
+20111,Lyon County,2020-07-29,629,5,Lyon,No Mask,33195
+20111,Lyon County,2020-07-30,640,11,Lyon,No Mask,33195
+20111,Lyon County,2020-07-31,644,4,Lyon,No Mask,33195
+20111,Lyon County,2020-08-01,644,0,Lyon,No Mask,33195
+20111,Lyon County,2020-08-02,644,0,Lyon,No Mask,33195
+20111,Lyon County,2020-08-03,650,6,Lyon,No Mask,33195
+20113,McPherson County,2020-07-06,83,9,McPherson,No Mask,28542
+20113,McPherson County,2020-07-07,83,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-08,86,3,McPherson,No Mask,28542
+20113,McPherson County,2020-07-09,86,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-10,90,4,McPherson,No Mask,28542
+20113,McPherson County,2020-07-11,90,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-12,90,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-13,96,6,McPherson,No Mask,28542
+20113,McPherson County,2020-07-14,96,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-15,98,2,McPherson,No Mask,28542
+20113,McPherson County,2020-07-16,98,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-17,101,3,McPherson,No Mask,28542
+20113,McPherson County,2020-07-18,101,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-19,101,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-20,108,7,McPherson,No Mask,28542
+20113,McPherson County,2020-07-21,108,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-22,118,10,McPherson,No Mask,28542
+20113,McPherson County,2020-07-23,118,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-24,121,3,McPherson,No Mask,28542
+20113,McPherson County,2020-07-25,121,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-26,121,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-27,126,5,McPherson,No Mask,28542
+20113,McPherson County,2020-07-28,126,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-29,131,5,McPherson,No Mask,28542
+20113,McPherson County,2020-07-30,131,0,McPherson,No Mask,28542
+20113,McPherson County,2020-07-31,131,0,McPherson,No Mask,28542
+20113,McPherson County,2020-08-01,131,0,McPherson,No Mask,28542
+20113,McPherson County,2020-08-02,131,0,McPherson,No Mask,28542
+20113,McPherson County,2020-08-03,140,9,McPherson,No Mask,28542
+20115,Marion County,2020-07-06,12,1,Marion,No Mask,11884
+20115,Marion County,2020-07-07,12,0,Marion,No Mask,11884
+20115,Marion County,2020-07-08,15,3,Marion,No Mask,11884
+20115,Marion County,2020-07-09,15,0,Marion,No Mask,11884
+20115,Marion County,2020-07-10,22,7,Marion,No Mask,11884
+20115,Marion County,2020-07-11,22,0,Marion,No Mask,11884
+20115,Marion County,2020-07-12,22,0,Marion,No Mask,11884
+20115,Marion County,2020-07-13,24,2,Marion,No Mask,11884
+20115,Marion County,2020-07-14,24,0,Marion,No Mask,11884
+20115,Marion County,2020-07-15,26,2,Marion,No Mask,11884
+20115,Marion County,2020-07-16,26,0,Marion,No Mask,11884
+20115,Marion County,2020-07-17,27,1,Marion,No Mask,11884
+20115,Marion County,2020-07-18,27,0,Marion,No Mask,11884
+20115,Marion County,2020-07-19,27,0,Marion,No Mask,11884
+20115,Marion County,2020-07-20,34,7,Marion,No Mask,11884
+20115,Marion County,2020-07-21,34,0,Marion,No Mask,11884
+20115,Marion County,2020-07-22,36,2,Marion,No Mask,11884
+20115,Marion County,2020-07-23,36,0,Marion,No Mask,11884
+20115,Marion County,2020-07-24,42,6,Marion,No Mask,11884
+20115,Marion County,2020-07-25,42,0,Marion,No Mask,11884
+20115,Marion County,2020-07-26,42,0,Marion,No Mask,11884
+20115,Marion County,2020-07-27,46,4,Marion,No Mask,11884
+20115,Marion County,2020-07-28,46,0,Marion,No Mask,11884
+20115,Marion County,2020-07-29,50,4,Marion,No Mask,11884
+20115,Marion County,2020-07-30,50,0,Marion,No Mask,11884
+20115,Marion County,2020-07-31,51,1,Marion,No Mask,11884
+20115,Marion County,2020-08-01,51,0,Marion,No Mask,11884
+20115,Marion County,2020-08-02,51,0,Marion,No Mask,11884
+20115,Marion County,2020-08-03,52,1,Marion,No Mask,11884
+20117,Marshall County,2020-07-06,2,1,Marshall,No Mask,9707
+20117,Marshall County,2020-07-07,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-08,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-09,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-10,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-11,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-12,2,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-13,6,4,Marshall,No Mask,9707
+20117,Marshall County,2020-07-14,6,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-15,7,1,Marshall,No Mask,9707
+20117,Marshall County,2020-07-16,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-17,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-18,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-19,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-20,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-21,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-22,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-23,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-24,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-25,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-26,7,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-27,8,1,Marshall,No Mask,9707
+20117,Marshall County,2020-07-28,8,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-29,9,1,Marshall,No Mask,9707
+20117,Marshall County,2020-07-30,9,0,Marshall,No Mask,9707
+20117,Marshall County,2020-07-31,9,0,Marshall,No Mask,9707
+20117,Marshall County,2020-08-01,9,0,Marshall,No Mask,9707
+20117,Marshall County,2020-08-02,9,0,Marshall,No Mask,9707
+20117,Marshall County,2020-08-03,9,0,Marshall,No Mask,9707
+20119,Meade County,2020-07-06,30,0,Meade,No Mask,4033
+20119,Meade County,2020-07-07,30,0,Meade,No Mask,4033
+20119,Meade County,2020-07-08,30,0,Meade,No Mask,4033
+20119,Meade County,2020-07-09,30,0,Meade,No Mask,4033
+20119,Meade County,2020-07-10,32,2,Meade,No Mask,4033
+20119,Meade County,2020-07-11,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-12,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-13,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-14,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-15,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-16,32,0,Meade,No Mask,4033
+20119,Meade County,2020-07-17,34,2,Meade,No Mask,4033
+20119,Meade County,2020-07-18,34,0,Meade,No Mask,4033
+20119,Meade County,2020-07-19,34,0,Meade,No Mask,4033
+20119,Meade County,2020-07-20,36,2,Meade,No Mask,4033
+20119,Meade County,2020-07-21,36,0,Meade,No Mask,4033
+20119,Meade County,2020-07-22,37,1,Meade,No Mask,4033
+20119,Meade County,2020-07-23,37,0,Meade,No Mask,4033
+20119,Meade County,2020-07-24,38,1,Meade,No Mask,4033
+20119,Meade County,2020-07-25,38,0,Meade,No Mask,4033
+20119,Meade County,2020-07-26,38,0,Meade,No Mask,4033
+20119,Meade County,2020-07-27,40,2,Meade,No Mask,4033
+20119,Meade County,2020-07-28,40,0,Meade,No Mask,4033
+20119,Meade County,2020-07-29,40,0,Meade,No Mask,4033
+20119,Meade County,2020-07-30,40,0,Meade,No Mask,4033
+20119,Meade County,2020-07-31,44,4,Meade,No Mask,4033
+20119,Meade County,2020-08-01,44,0,Meade,No Mask,4033
+20119,Meade County,2020-08-02,44,0,Meade,No Mask,4033
+20119,Meade County,2020-08-03,45,1,Meade,No Mask,4033
+20121,Miami County,2020-07-06,46,12,Miami,No Mask,34237
+20121,Miami County,2020-07-07,46,0,Miami,No Mask,34237
+20121,Miami County,2020-07-08,52,6,Miami,No Mask,34237
+20121,Miami County,2020-07-09,52,0,Miami,No Mask,34237
+20121,Miami County,2020-07-10,57,5,Miami,No Mask,34237
+20121,Miami County,2020-07-11,57,0,Miami,No Mask,34237
+20121,Miami County,2020-07-12,57,0,Miami,No Mask,34237
+20121,Miami County,2020-07-13,62,5,Miami,No Mask,34237
+20121,Miami County,2020-07-14,62,0,Miami,No Mask,34237
+20121,Miami County,2020-07-15,67,5,Miami,No Mask,34237
+20121,Miami County,2020-07-16,67,0,Miami,No Mask,34237
+20121,Miami County,2020-07-17,74,7,Miami,No Mask,34237
+20121,Miami County,2020-07-18,74,0,Miami,No Mask,34237
+20121,Miami County,2020-07-19,74,0,Miami,No Mask,34237
+20121,Miami County,2020-07-20,84,10,Miami,No Mask,34237
+20121,Miami County,2020-07-21,84,0,Miami,No Mask,34237
+20121,Miami County,2020-07-22,89,5,Miami,No Mask,34237
+20121,Miami County,2020-07-23,89,0,Miami,No Mask,34237
+20121,Miami County,2020-07-24,96,7,Miami,No Mask,34237
+20121,Miami County,2020-07-25,96,0,Miami,No Mask,34237
+20121,Miami County,2020-07-26,96,0,Miami,No Mask,34237
+20121,Miami County,2020-07-27,108,12,Miami,No Mask,34237
+20121,Miami County,2020-07-28,108,0,Miami,No Mask,34237
+20121,Miami County,2020-07-29,113,5,Miami,No Mask,34237
+20121,Miami County,2020-07-30,113,0,Miami,No Mask,34237
+20121,Miami County,2020-07-31,122,9,Miami,No Mask,34237
+20121,Miami County,2020-08-01,122,0,Miami,No Mask,34237
+20121,Miami County,2020-08-02,122,0,Miami,No Mask,34237
+20121,Miami County,2020-08-03,130,8,Miami,No Mask,34237
+20123,Mitchell County,2020-07-06,4,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-07,4,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-08,5,1,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-09,5,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-10,11,6,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-11,11,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-12,11,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-13,13,2,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-14,13,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-15,16,3,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-16,16,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-17,19,3,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-18,19,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-19,19,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-20,19,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-21,19,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-22,21,2,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-23,21,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-24,22,1,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-25,22,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-26,22,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-27,26,4,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-28,26,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-29,27,1,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-30,27,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-07-31,27,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-08-01,27,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-08-02,27,0,Mitchell,Mask,5979
+20123,Mitchell County,2020-08-03,27,0,Mitchell,Mask,5979
+20125,Montgomery County,2020-07-06,49,13,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-07,49,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-08,53,4,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-09,53,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-10,58,5,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-11,58,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-12,58,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-13,67,9,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-14,67,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-15,69,2,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-16,69,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-17,74,5,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-18,74,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-19,74,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-20,102,28,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-21,102,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-22,106,4,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-23,106,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-24,109,3,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-25,109,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-26,109,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-27,122,13,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-28,122,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-29,128,6,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-30,128,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-07-31,140,12,Montgomery,Mask,31829
+20125,Montgomery County,2020-08-01,140,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-08-02,140,0,Montgomery,Mask,31829
+20125,Montgomery County,2020-08-03,149,9,Montgomery,Mask,31829
+20127,Morris County,2020-07-06,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-07,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-08,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-09,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-10,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-11,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-12,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-13,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-14,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-15,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-16,5,0,Morris,Mask,5620
+20127,Morris County,2020-07-17,6,1,Morris,Mask,5620
+20127,Morris County,2020-07-18,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-19,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-20,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-21,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-22,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-23,6,0,Morris,Mask,5620
+20127,Morris County,2020-07-24,7,1,Morris,Mask,5620
+20127,Morris County,2020-07-25,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-26,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-27,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-28,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-29,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-30,7,0,Morris,Mask,5620
+20127,Morris County,2020-07-31,9,2,Morris,Mask,5620
+20127,Morris County,2020-08-01,9,0,Morris,Mask,5620
+20127,Morris County,2020-08-02,9,0,Morris,Mask,5620
+20127,Morris County,2020-08-03,9,0,Morris,Mask,5620
+20129,Morton County,2020-07-06,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-07,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-08,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-09,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-10,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-11,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-12,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-13,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-14,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-15,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-16,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-17,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-18,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-19,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-20,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-21,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-22,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-23,7,0,Morton,No Mask,2587
+20129,Morton County,2020-07-24,9,2,Morton,No Mask,2587
+20129,Morton County,2020-07-25,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-26,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-27,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-28,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-29,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-30,9,0,Morton,No Mask,2587
+20129,Morton County,2020-07-31,9,0,Morton,No Mask,2587
+20129,Morton County,2020-08-01,9,0,Morton,No Mask,2587
+20129,Morton County,2020-08-02,9,0,Morton,No Mask,2587
+20129,Morton County,2020-08-03,9,0,Morton,No Mask,2587
+20131,Nemaha County,2020-07-06,28,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-07,28,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-08,29,1,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-09,29,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-10,31,2,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-11,31,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-12,31,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-13,31,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-14,31,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-15,34,3,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-16,34,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-17,36,2,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-18,36,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-19,36,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-20,38,2,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-21,38,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-22,41,3,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-23,41,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-24,41,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-25,41,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-26,41,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-27,44,3,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-28,44,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-29,44,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-30,44,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-07-31,46,2,Nemaha,No Mask,10231
+20131,Nemaha County,2020-08-01,46,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-08-02,46,0,Nemaha,No Mask,10231
+20131,Nemaha County,2020-08-03,47,1,Nemaha,No Mask,10231
+20133,Neosho County,2020-07-06,34,4,Neosho,No Mask,16007
+20133,Neosho County,2020-07-07,34,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-08,34,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-09,34,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-10,39,5,Neosho,No Mask,16007
+20133,Neosho County,2020-07-11,39,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-12,39,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-13,43,4,Neosho,No Mask,16007
+20133,Neosho County,2020-07-14,43,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-15,46,3,Neosho,No Mask,16007
+20133,Neosho County,2020-07-16,46,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-17,49,3,Neosho,No Mask,16007
+20133,Neosho County,2020-07-18,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-19,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-20,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-21,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-22,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-23,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-24,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-25,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-26,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-27,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-28,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-29,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-30,49,0,Neosho,No Mask,16007
+20133,Neosho County,2020-07-31,51,2,Neosho,No Mask,16007
+20133,Neosho County,2020-08-01,51,0,Neosho,No Mask,16007
+20133,Neosho County,2020-08-02,51,0,Neosho,No Mask,16007
+20133,Neosho County,2020-08-03,56,5,Neosho,No Mask,16007
+20135,Ness County,2020-07-06,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-07,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-08,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-09,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-10,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-11,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-12,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-13,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-14,4,0,Ness,No Mask,2750
+20135,Ness County,2020-07-15,5,1,Ness,No Mask,2750
+20135,Ness County,2020-07-16,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-17,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-18,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-19,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-20,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-21,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-22,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-23,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-24,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-25,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-26,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-27,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-28,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-29,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-30,5,0,Ness,No Mask,2750
+20135,Ness County,2020-07-31,5,0,Ness,No Mask,2750
+20135,Ness County,2020-08-01,5,0,Ness,No Mask,2750
+20135,Ness County,2020-08-02,5,0,Ness,No Mask,2750
+20135,Ness County,2020-08-03,6,1,Ness,No Mask,2750
+20137,Norton County,2020-07-06,10,6,Norton,No Mask,5361
+20137,Norton County,2020-07-07,10,0,Norton,No Mask,5361
+20137,Norton County,2020-07-08,11,1,Norton,No Mask,5361
+20137,Norton County,2020-07-09,11,0,Norton,No Mask,5361
+20137,Norton County,2020-07-10,13,2,Norton,No Mask,5361
+20137,Norton County,2020-07-11,13,0,Norton,No Mask,5361
+20137,Norton County,2020-07-12,13,0,Norton,No Mask,5361
+20137,Norton County,2020-07-13,20,7,Norton,No Mask,5361
+20137,Norton County,2020-07-14,20,0,Norton,No Mask,5361
+20137,Norton County,2020-07-15,20,0,Norton,No Mask,5361
+20137,Norton County,2020-07-16,20,0,Norton,No Mask,5361
+20137,Norton County,2020-07-17,21,1,Norton,No Mask,5361
+20137,Norton County,2020-07-18,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-19,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-20,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-21,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-22,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-23,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-24,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-25,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-26,21,0,Norton,No Mask,5361
+20137,Norton County,2020-07-27,22,1,Norton,No Mask,5361
+20137,Norton County,2020-07-28,22,0,Norton,No Mask,5361
+20137,Norton County,2020-07-29,22,0,Norton,No Mask,5361
+20137,Norton County,2020-07-30,22,0,Norton,No Mask,5361
+20137,Norton County,2020-07-31,22,0,Norton,No Mask,5361
+20137,Norton County,2020-08-01,22,0,Norton,No Mask,5361
+20137,Norton County,2020-08-02,22,0,Norton,No Mask,5361
+20137,Norton County,2020-08-03,22,0,Norton,No Mask,5361
+20139,Osage County,2020-07-06,18,5,Osage,No Mask,15949
+20139,Osage County,2020-07-07,18,0,Osage,No Mask,15949
+20139,Osage County,2020-07-08,22,4,Osage,No Mask,15949
+20139,Osage County,2020-07-09,22,0,Osage,No Mask,15949
+20139,Osage County,2020-07-10,28,6,Osage,No Mask,15949
+20139,Osage County,2020-07-11,28,0,Osage,No Mask,15949
+20139,Osage County,2020-07-12,28,0,Osage,No Mask,15949
+20139,Osage County,2020-07-13,29,1,Osage,No Mask,15949
+20139,Osage County,2020-07-14,29,0,Osage,No Mask,15949
+20139,Osage County,2020-07-15,30,1,Osage,No Mask,15949
+20139,Osage County,2020-07-16,30,0,Osage,No Mask,15949
+20139,Osage County,2020-07-17,32,2,Osage,No Mask,15949
+20139,Osage County,2020-07-18,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-19,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-20,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-21,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-22,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-23,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-24,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-25,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-26,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-27,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-28,32,0,Osage,No Mask,15949
+20139,Osage County,2020-07-29,37,5,Osage,No Mask,15949
+20139,Osage County,2020-07-30,37,0,Osage,No Mask,15949
+20139,Osage County,2020-07-31,37,0,Osage,No Mask,15949
+20139,Osage County,2020-08-01,37,0,Osage,No Mask,15949
+20139,Osage County,2020-08-02,37,0,Osage,No Mask,15949
+20139,Osage County,2020-08-03,37,0,Osage,No Mask,15949
+20141,Osborne County,2020-07-06,3,1,Osborne,No Mask,3421
+20141,Osborne County,2020-07-07,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-08,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-09,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-10,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-11,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-12,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-13,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-14,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-15,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-16,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-17,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-18,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-19,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-20,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-21,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-22,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-23,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-24,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-25,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-26,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-27,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-28,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-29,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-30,3,0,Osborne,No Mask,3421
+20141,Osborne County,2020-07-31,4,1,Osborne,No Mask,3421
+20141,Osborne County,2020-08-01,4,0,Osborne,No Mask,3421
+20141,Osborne County,2020-08-02,4,0,Osborne,No Mask,3421
+20141,Osborne County,2020-08-03,4,0,Osborne,No Mask,3421
+20143,Ottawa County,2020-07-06,10,4,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-07,10,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-08,12,2,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-09,12,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-10,15,3,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-11,15,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-12,15,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-13,20,5,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-14,20,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-15,20,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-16,20,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-17,22,2,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-18,22,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-19,22,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-20,26,4,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-21,26,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-22,26,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-23,26,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-24,28,2,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-25,28,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-26,28,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-27,30,2,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-28,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-29,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-30,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-07-31,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-08-01,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-08-02,30,0,Ottawa,No Mask,5704
+20143,Ottawa County,2020-08-03,30,0,Ottawa,No Mask,5704
+20145,Pawnee County,2020-07-06,3,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-07,3,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-08,4,1,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-09,4,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-10,5,1,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-11,5,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-12,5,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-13,5,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-14,5,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-15,7,2,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-16,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-17,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-18,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-19,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-20,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-21,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-22,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-23,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-24,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-25,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-26,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-27,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-28,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-29,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-30,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-07-31,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-08-01,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-08-02,7,0,Pawnee,No Mask,6414
+20145,Pawnee County,2020-08-03,8,1,Pawnee,No Mask,6414
+20147,Phillips County,2020-07-06,27,24,Phillips,No Mask,5234
+20147,Phillips County,2020-07-07,27,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-08,27,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-09,27,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-10,28,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-11,28,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-12,28,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-13,33,5,Phillips,No Mask,5234
+20147,Phillips County,2020-07-14,33,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-15,34,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-16,34,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-17,35,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-18,35,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-19,35,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-20,36,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-21,36,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-22,36,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-23,36,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-24,37,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-25,41,4,Phillips,No Mask,5234
+20147,Phillips County,2020-07-26,41,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-27,41,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-28,41,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-29,42,1,Phillips,No Mask,5234
+20147,Phillips County,2020-07-30,42,0,Phillips,No Mask,5234
+20147,Phillips County,2020-07-31,43,1,Phillips,No Mask,5234
+20147,Phillips County,2020-08-01,43,0,Phillips,No Mask,5234
+20147,Phillips County,2020-08-02,43,0,Phillips,No Mask,5234
+20147,Phillips County,2020-08-03,46,3,Phillips,No Mask,5234
+20149,Pottawatomie County,2020-07-06,82,8,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-07,82,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-08,83,1,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-09,83,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-10,89,6,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-11,89,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-12,89,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-13,93,4,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-14,93,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-15,95,2,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-16,95,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-17,98,3,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-18,98,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-19,98,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-20,102,4,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-21,102,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-22,102,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-23,102,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-24,105,3,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-25,105,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-26,105,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-27,107,2,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-28,107,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-29,107,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-30,107,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-07-31,108,1,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-08-01,108,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-08-02,108,0,Pottawatomie,No Mask,24383
+20149,Pottawatomie County,2020-08-03,112,4,Pottawatomie,No Mask,24383
+20151,Pratt County,2020-07-06,11,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-07,11,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-08,12,1,Pratt,Mask,9164
+20151,Pratt County,2020-07-09,12,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-10,13,1,Pratt,Mask,9164
+20151,Pratt County,2020-07-11,13,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-12,13,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-13,16,3,Pratt,Mask,9164
+20151,Pratt County,2020-07-14,16,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-15,22,6,Pratt,Mask,9164
+20151,Pratt County,2020-07-16,22,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-17,24,2,Pratt,Mask,9164
+20151,Pratt County,2020-07-18,24,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-19,24,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-20,28,4,Pratt,Mask,9164
+20151,Pratt County,2020-07-21,28,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-22,28,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-23,28,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-24,30,2,Pratt,Mask,9164
+20151,Pratt County,2020-07-25,30,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-26,30,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-27,31,1,Pratt,Mask,9164
+20151,Pratt County,2020-07-28,31,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-29,33,2,Pratt,Mask,9164
+20151,Pratt County,2020-07-30,33,0,Pratt,Mask,9164
+20151,Pratt County,2020-07-31,33,0,Pratt,Mask,9164
+20151,Pratt County,2020-08-01,33,0,Pratt,Mask,9164
+20151,Pratt County,2020-08-02,33,0,Pratt,Mask,9164
+20151,Pratt County,2020-08-03,33,0,Pratt,Mask,9164
+20153,Rawlins County,2020-07-06,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-07,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-08,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-09,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-10,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-11,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-12,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-13,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-14,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-15,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-16,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-17,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-18,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-19,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-20,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-21,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-22,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-23,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-24,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-25,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-26,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-27,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-28,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-29,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-30,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-07-31,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-08-01,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-08-02,0,0,Rawlins,No Mask,2530
+20153,Rawlins County,2020-08-03,0,0,Rawlins,No Mask,2530
+20155,Reno County,2020-07-06,96,22,Reno,Mask,61998
+20155,Reno County,2020-07-07,96,0,Reno,Mask,61998
+20155,Reno County,2020-07-08,101,5,Reno,Mask,61998
+20155,Reno County,2020-07-09,101,0,Reno,Mask,61998
+20155,Reno County,2020-07-10,121,20,Reno,Mask,61998
+20155,Reno County,2020-07-11,121,0,Reno,Mask,61998
+20155,Reno County,2020-07-12,121,0,Reno,Mask,61998
+20155,Reno County,2020-07-13,141,20,Reno,Mask,61998
+20155,Reno County,2020-07-14,141,0,Reno,Mask,61998
+20155,Reno County,2020-07-15,141,0,Reno,Mask,61998
+20155,Reno County,2020-07-16,141,0,Reno,Mask,61998
+20155,Reno County,2020-07-17,155,14,Reno,Mask,61998
+20155,Reno County,2020-07-18,155,0,Reno,Mask,61998
+20155,Reno County,2020-07-19,155,0,Reno,Mask,61998
+20155,Reno County,2020-07-20,175,20,Reno,Mask,61998
+20155,Reno County,2020-07-21,175,0,Reno,Mask,61998
+20155,Reno County,2020-07-22,179,4,Reno,Mask,61998
+20155,Reno County,2020-07-23,179,0,Reno,Mask,61998
+20155,Reno County,2020-07-24,197,18,Reno,Mask,61998
+20155,Reno County,2020-07-25,197,0,Reno,Mask,61998
+20155,Reno County,2020-07-26,197,0,Reno,Mask,61998
+20155,Reno County,2020-07-27,214,17,Reno,Mask,61998
+20155,Reno County,2020-07-28,214,0,Reno,Mask,61998
+20155,Reno County,2020-07-29,217,3,Reno,Mask,61998
+20155,Reno County,2020-07-30,217,0,Reno,Mask,61998
+20155,Reno County,2020-07-31,229,12,Reno,Mask,61998
+20155,Reno County,2020-08-01,229,0,Reno,Mask,61998
+20155,Reno County,2020-08-02,229,0,Reno,Mask,61998
+20155,Reno County,2020-08-03,239,10,Reno,Mask,61998
+20157,Republic County,2020-07-06,9,0,Republic,Mask,4636
+20157,Republic County,2020-07-07,9,0,Republic,Mask,4636
+20157,Republic County,2020-07-08,11,2,Republic,Mask,4636
+20157,Republic County,2020-07-09,11,0,Republic,Mask,4636
+20157,Republic County,2020-07-10,12,1,Republic,Mask,4636
+20157,Republic County,2020-07-11,12,0,Republic,Mask,4636
+20157,Republic County,2020-07-12,12,0,Republic,Mask,4636
+20157,Republic County,2020-07-13,15,3,Republic,Mask,4636
+20157,Republic County,2020-07-14,15,0,Republic,Mask,4636
+20157,Republic County,2020-07-15,19,4,Republic,Mask,4636
+20157,Republic County,2020-07-16,19,0,Republic,Mask,4636
+20157,Republic County,2020-07-17,21,2,Republic,Mask,4636
+20157,Republic County,2020-07-18,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-19,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-20,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-21,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-22,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-23,21,0,Republic,Mask,4636
+20157,Republic County,2020-07-24,23,2,Republic,Mask,4636
+20157,Republic County,2020-07-25,23,0,Republic,Mask,4636
+20157,Republic County,2020-07-26,23,0,Republic,Mask,4636
+20157,Republic County,2020-07-27,25,2,Republic,Mask,4636
+20157,Republic County,2020-07-28,25,0,Republic,Mask,4636
+20157,Republic County,2020-07-29,25,0,Republic,Mask,4636
+20157,Republic County,2020-07-30,25,0,Republic,Mask,4636
+20157,Republic County,2020-07-31,27,2,Republic,Mask,4636
+20157,Republic County,2020-08-01,27,0,Republic,Mask,4636
+20157,Republic County,2020-08-02,27,0,Republic,Mask,4636
+20157,Republic County,2020-08-03,31,4,Republic,Mask,4636
+20159,Rice County,2020-07-06,4,0,Rice,No Mask,9537
+20159,Rice County,2020-07-07,4,0,Rice,No Mask,9537
+20159,Rice County,2020-07-08,4,0,Rice,No Mask,9537
+20159,Rice County,2020-07-09,4,0,Rice,No Mask,9537
+20159,Rice County,2020-07-10,7,3,Rice,No Mask,9537
+20159,Rice County,2020-07-11,7,0,Rice,No Mask,9537
+20159,Rice County,2020-07-12,7,0,Rice,No Mask,9537
+20159,Rice County,2020-07-13,9,2,Rice,No Mask,9537
+20159,Rice County,2020-07-14,9,0,Rice,No Mask,9537
+20159,Rice County,2020-07-15,10,1,Rice,No Mask,9537
+20159,Rice County,2020-07-16,10,0,Rice,No Mask,9537
+20159,Rice County,2020-07-17,12,2,Rice,No Mask,9537
+20159,Rice County,2020-07-18,12,0,Rice,No Mask,9537
+20159,Rice County,2020-07-19,12,0,Rice,No Mask,9537
+20159,Rice County,2020-07-20,16,4,Rice,No Mask,9537
+20159,Rice County,2020-07-21,16,0,Rice,No Mask,9537
+20159,Rice County,2020-07-22,16,0,Rice,No Mask,9537
+20159,Rice County,2020-07-23,16,0,Rice,No Mask,9537
+20159,Rice County,2020-07-24,22,6,Rice,No Mask,9537
+20159,Rice County,2020-07-25,22,0,Rice,No Mask,9537
+20159,Rice County,2020-07-26,22,0,Rice,No Mask,9537
+20159,Rice County,2020-07-27,22,0,Rice,No Mask,9537
+20159,Rice County,2020-07-28,22,0,Rice,No Mask,9537
+20159,Rice County,2020-07-29,23,1,Rice,No Mask,9537
+20159,Rice County,2020-07-30,23,0,Rice,No Mask,9537
+20159,Rice County,2020-07-31,26,3,Rice,No Mask,9537
+20159,Rice County,2020-08-01,26,0,Rice,No Mask,9537
+20159,Rice County,2020-08-02,26,0,Rice,No Mask,9537
+20159,Rice County,2020-08-03,28,2,Rice,No Mask,9537
+20161,Riley County,2020-07-06,286,67,Riley,No Mask,74232
+20161,Riley County,2020-07-07,286,0,Riley,No Mask,74232
+20161,Riley County,2020-07-08,301,15,Riley,No Mask,74232
+20161,Riley County,2020-07-09,301,0,Riley,No Mask,74232
+20161,Riley County,2020-07-10,312,11,Riley,No Mask,74232
+20161,Riley County,2020-07-11,312,0,Riley,No Mask,74232
+20161,Riley County,2020-07-12,312,0,Riley,No Mask,74232
+20161,Riley County,2020-07-13,355,43,Riley,No Mask,74232
+20161,Riley County,2020-07-14,355,0,Riley,No Mask,74232
+20161,Riley County,2020-07-15,371,16,Riley,No Mask,74232
+20161,Riley County,2020-07-16,371,0,Riley,No Mask,74232
+20161,Riley County,2020-07-17,382,11,Riley,No Mask,74232
+20161,Riley County,2020-07-18,382,0,Riley,No Mask,74232
+20161,Riley County,2020-07-19,382,0,Riley,No Mask,74232
+20161,Riley County,2020-07-20,382,0,Riley,No Mask,74232
+20161,Riley County,2020-07-21,382,0,Riley,No Mask,74232
+20161,Riley County,2020-07-22,411,29,Riley,No Mask,74232
+20161,Riley County,2020-07-23,411,0,Riley,No Mask,74232
+20161,Riley County,2020-07-24,419,8,Riley,No Mask,74232
+20161,Riley County,2020-07-25,419,0,Riley,No Mask,74232
+20161,Riley County,2020-07-26,419,0,Riley,No Mask,74232
+20161,Riley County,2020-07-27,426,7,Riley,No Mask,74232
+20161,Riley County,2020-07-28,426,0,Riley,No Mask,74232
+20161,Riley County,2020-07-29,441,15,Riley,No Mask,74232
+20161,Riley County,2020-07-30,445,4,Riley,No Mask,74232
+20161,Riley County,2020-07-31,449,4,Riley,No Mask,74232
+20161,Riley County,2020-08-01,449,0,Riley,No Mask,74232
+20161,Riley County,2020-08-02,449,0,Riley,No Mask,74232
+20161,Riley County,2020-08-03,449,0,Riley,No Mask,74232
+20163,Rooks County,2020-07-06,8,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-07,8,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-08,9,1,Rooks,No Mask,4920
+20163,Rooks County,2020-07-09,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-10,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-11,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-12,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-13,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-14,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-15,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-16,9,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-17,10,1,Rooks,No Mask,4920
+20163,Rooks County,2020-07-18,10,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-19,10,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-20,11,1,Rooks,No Mask,4920
+20163,Rooks County,2020-07-21,11,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-22,11,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-23,11,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-24,14,3,Rooks,No Mask,4920
+20163,Rooks County,2020-07-25,14,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-26,14,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-27,15,1,Rooks,No Mask,4920
+20163,Rooks County,2020-07-28,15,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-29,15,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-30,15,0,Rooks,No Mask,4920
+20163,Rooks County,2020-07-31,16,1,Rooks,No Mask,4920
+20163,Rooks County,2020-08-01,16,0,Rooks,No Mask,4920
+20163,Rooks County,2020-08-02,16,0,Rooks,No Mask,4920
+20163,Rooks County,2020-08-03,17,1,Rooks,No Mask,4920
+20165,Rush County,2020-07-06,1,0,Rush,No Mask,3036
+20165,Rush County,2020-07-07,1,0,Rush,No Mask,3036
+20165,Rush County,2020-07-08,2,1,Rush,No Mask,3036
+20165,Rush County,2020-07-09,2,0,Rush,No Mask,3036
+20165,Rush County,2020-07-10,3,1,Rush,No Mask,3036
+20165,Rush County,2020-07-11,3,0,Rush,No Mask,3036
+20165,Rush County,2020-07-12,3,0,Rush,No Mask,3036
+20165,Rush County,2020-07-13,4,1,Rush,No Mask,3036
+20165,Rush County,2020-07-14,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-15,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-16,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-17,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-18,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-19,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-20,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-21,4,0,Rush,No Mask,3036
+20165,Rush County,2020-07-22,5,1,Rush,No Mask,3036
+20165,Rush County,2020-07-23,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-24,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-25,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-26,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-27,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-28,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-29,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-30,5,0,Rush,No Mask,3036
+20165,Rush County,2020-07-31,6,1,Rush,No Mask,3036
+20165,Rush County,2020-08-01,6,0,Rush,No Mask,3036
+20165,Rush County,2020-08-02,6,0,Rush,No Mask,3036
+20165,Rush County,2020-08-03,7,1,Rush,No Mask,3036
+20167,Russell County,2020-07-06,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-07,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-08,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-09,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-10,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-11,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-12,1,0,Russell,No Mask,6856
+20167,Russell County,2020-07-13,2,1,Russell,No Mask,6856
+20167,Russell County,2020-07-14,2,0,Russell,No Mask,6856
+20167,Russell County,2020-07-15,2,0,Russell,No Mask,6856
+20167,Russell County,2020-07-16,2,0,Russell,No Mask,6856
+20167,Russell County,2020-07-17,4,2,Russell,No Mask,6856
+20167,Russell County,2020-07-18,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-19,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-20,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-21,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-22,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-23,4,0,Russell,No Mask,6856
+20167,Russell County,2020-07-24,5,1,Russell,No Mask,6856
+20167,Russell County,2020-07-25,5,0,Russell,No Mask,6856
+20167,Russell County,2020-07-26,5,0,Russell,No Mask,6856
+20167,Russell County,2020-07-27,8,3,Russell,No Mask,6856
+20167,Russell County,2020-07-28,8,0,Russell,No Mask,6856
+20167,Russell County,2020-07-29,8,0,Russell,No Mask,6856
+20167,Russell County,2020-07-30,8,0,Russell,No Mask,6856
+20167,Russell County,2020-07-31,11,3,Russell,No Mask,6856
+20167,Russell County,2020-08-01,11,0,Russell,No Mask,6856
+20167,Russell County,2020-08-02,11,0,Russell,No Mask,6856
+20167,Russell County,2020-08-03,12,1,Russell,No Mask,6856
+20169,Saline County,2020-07-06,151,45,Saline,Mask,54224
+20169,Saline County,2020-07-07,151,0,Saline,Mask,54224
+20169,Saline County,2020-07-08,169,18,Saline,Mask,54224
+20169,Saline County,2020-07-09,169,0,Saline,Mask,54224
+20169,Saline County,2020-07-10,192,23,Saline,Mask,54224
+20169,Saline County,2020-07-11,192,0,Saline,Mask,54224
+20169,Saline County,2020-07-12,192,0,Saline,Mask,54224
+20169,Saline County,2020-07-13,220,28,Saline,Mask,54224
+20169,Saline County,2020-07-14,220,0,Saline,Mask,54224
+20169,Saline County,2020-07-15,222,2,Saline,Mask,54224
+20169,Saline County,2020-07-16,222,0,Saline,Mask,54224
+20169,Saline County,2020-07-17,247,25,Saline,Mask,54224
+20169,Saline County,2020-07-18,247,0,Saline,Mask,54224
+20169,Saline County,2020-07-19,247,0,Saline,Mask,54224
+20169,Saline County,2020-07-20,281,34,Saline,Mask,54224
+20169,Saline County,2020-07-21,281,0,Saline,Mask,54224
+20169,Saline County,2020-07-22,284,3,Saline,Mask,54224
+20169,Saline County,2020-07-23,284,0,Saline,Mask,54224
+20169,Saline County,2020-07-24,298,14,Saline,Mask,54224
+20169,Saline County,2020-07-25,298,0,Saline,Mask,54224
+20169,Saline County,2020-07-26,298,0,Saline,Mask,54224
+20169,Saline County,2020-07-27,310,12,Saline,Mask,54224
+20169,Saline County,2020-07-28,310,0,Saline,Mask,54224
+20169,Saline County,2020-07-29,316,6,Saline,Mask,54224
+20169,Saline County,2020-07-30,316,0,Saline,Mask,54224
+20169,Saline County,2020-07-31,327,11,Saline,Mask,54224
+20169,Saline County,2020-08-01,327,0,Saline,Mask,54224
+20169,Saline County,2020-08-02,327,0,Saline,Mask,54224
+20169,Saline County,2020-08-03,332,5,Saline,Mask,54224
+20171,Scott County,2020-07-06,16,0,Scott,Mask,4823
+20171,Scott County,2020-07-07,16,0,Scott,Mask,4823
+20171,Scott County,2020-07-08,16,0,Scott,Mask,4823
+20171,Scott County,2020-07-09,16,0,Scott,Mask,4823
+20171,Scott County,2020-07-10,17,1,Scott,Mask,4823
+20171,Scott County,2020-07-11,17,0,Scott,Mask,4823
+20171,Scott County,2020-07-12,17,0,Scott,Mask,4823
+20171,Scott County,2020-07-13,18,1,Scott,Mask,4823
+20171,Scott County,2020-07-14,18,0,Scott,Mask,4823
+20171,Scott County,2020-07-15,19,1,Scott,Mask,4823
+20171,Scott County,2020-07-16,19,0,Scott,Mask,4823
+20171,Scott County,2020-07-17,19,0,Scott,Mask,4823
+20171,Scott County,2020-07-18,19,0,Scott,Mask,4823
+20171,Scott County,2020-07-19,19,0,Scott,Mask,4823
+20171,Scott County,2020-07-20,20,1,Scott,Mask,4823
+20171,Scott County,2020-07-21,20,0,Scott,Mask,4823
+20171,Scott County,2020-07-22,21,1,Scott,Mask,4823
+20171,Scott County,2020-07-23,21,0,Scott,Mask,4823
+20171,Scott County,2020-07-24,21,0,Scott,Mask,4823
+20171,Scott County,2020-07-25,21,0,Scott,Mask,4823
+20171,Scott County,2020-07-26,21,0,Scott,Mask,4823
+20171,Scott County,2020-07-27,23,2,Scott,Mask,4823
+20171,Scott County,2020-07-28,23,0,Scott,Mask,4823
+20171,Scott County,2020-07-29,24,1,Scott,Mask,4823
+20171,Scott County,2020-07-30,24,0,Scott,Mask,4823
+20171,Scott County,2020-07-31,26,2,Scott,Mask,4823
+20171,Scott County,2020-08-01,26,0,Scott,Mask,4823
+20171,Scott County,2020-08-02,26,0,Scott,Mask,4823
+20171,Scott County,2020-08-03,28,2,Scott,Mask,4823
+20173,Sedgwick County,2020-07-06,1750,382,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-07,1750,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-08,1922,172,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-09,1922,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-10,2074,152,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-11,2074,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-12,2074,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-13,2422,348,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-14,2422,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-15,2595,173,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-16,2595,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-17,2790,195,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-18,2790,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-19,2790,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-20,3162,372,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-21,3162,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-22,3368,206,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-23,3368,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-24,3579,211,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-25,3579,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-26,3646,67,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-27,3816,170,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-28,3816,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-29,3951,135,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-30,3962,11,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-07-31,4196,234,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-08-01,4196,0,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-08-02,4287,91,Sedgwick,Mask,516042
+20173,Sedgwick County,2020-08-03,4506,219,Sedgwick,Mask,516042
+20175,Seward County,2020-07-06,1033,22,Seward,No Mask,21428
+20175,Seward County,2020-07-07,1033,0,Seward,No Mask,21428
+20175,Seward County,2020-07-08,1048,15,Seward,No Mask,21428
+20175,Seward County,2020-07-09,1048,0,Seward,No Mask,21428
+20175,Seward County,2020-07-10,1048,0,Seward,No Mask,21428
+20175,Seward County,2020-07-11,1048,0,Seward,No Mask,21428
+20175,Seward County,2020-07-12,1082,34,Seward,No Mask,21428
+20175,Seward County,2020-07-13,1082,0,Seward,No Mask,21428
+20175,Seward County,2020-07-14,1097,15,Seward,No Mask,21428
+20175,Seward County,2020-07-15,1097,0,Seward,No Mask,21428
+20175,Seward County,2020-07-16,1105,8,Seward,No Mask,21428
+20175,Seward County,2020-07-17,1105,0,Seward,No Mask,21428
+20175,Seward County,2020-07-18,1105,0,Seward,No Mask,21428
+20175,Seward County,2020-07-19,1105,0,Seward,No Mask,21428
+20175,Seward County,2020-07-20,1121,16,Seward,No Mask,21428
+20175,Seward County,2020-07-21,1121,0,Seward,No Mask,21428
+20175,Seward County,2020-07-22,1121,0,Seward,No Mask,21428
+20175,Seward County,2020-07-23,1121,0,Seward,No Mask,21428
+20175,Seward County,2020-07-24,1154,33,Seward,No Mask,21428
+20175,Seward County,2020-07-25,1154,0,Seward,No Mask,21428
+20175,Seward County,2020-07-26,1154,0,Seward,No Mask,21428
+20175,Seward County,2020-07-27,1154,0,Seward,No Mask,21428
+20175,Seward County,2020-07-28,1154,0,Seward,No Mask,21428
+20175,Seward County,2020-07-29,1160,6,Seward,No Mask,21428
+20175,Seward County,2020-07-30,1169,9,Seward,No Mask,21428
+20175,Seward County,2020-07-31,1169,0,Seward,No Mask,21428
+20175,Seward County,2020-08-01,1188,19,Seward,No Mask,21428
+20175,Seward County,2020-08-02,1188,0,Seward,No Mask,21428
+20175,Seward County,2020-08-03,1188,0,Seward,No Mask,21428
+20177,Shawnee County,2020-07-06,825,156,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-07,825,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-08,878,53,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-09,878,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-10,962,84,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-11,990,28,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-12,990,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-13,1048,58,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-14,1048,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-15,1092,44,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-16,1092,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-17,1146,54,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-18,1159,13,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-19,1159,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-20,1205,46,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-21,1205,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-22,1237,32,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-23,1237,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-24,1268,31,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-25,1268,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-26,1295,27,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-27,1324,29,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-28,1324,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-29,1374,50,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-30,1374,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-07-31,1398,24,Shawnee,Mask,176875
+20177,Shawnee County,2020-08-01,1398,0,Shawnee,Mask,176875
+20177,Shawnee County,2020-08-02,1420,22,Shawnee,Mask,176875
+20177,Shawnee County,2020-08-03,1443,23,Shawnee,Mask,176875
+20179,Sheridan County,2020-07-06,5,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-07,5,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-08,5,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-09,5,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-10,6,1,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-11,6,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-12,6,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-13,6,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-14,6,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-15,7,1,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-16,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-17,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-18,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-19,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-20,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-21,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-22,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-23,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-24,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-25,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-26,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-27,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-28,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-29,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-30,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-07-31,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-08-01,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-08-02,7,0,Sheridan,No Mask,2521
+20179,Sheridan County,2020-08-03,7,0,Sheridan,No Mask,2521
+20181,Sherman County,2020-07-06,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-07,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-08,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-09,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-10,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-11,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-12,7,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-13,9,2,Sherman,No Mask,5917
+20181,Sherman County,2020-07-14,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-15,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-16,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-17,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-18,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-19,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-20,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-21,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-22,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-23,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-24,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-25,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-26,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-27,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-28,9,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-29,12,3,Sherman,No Mask,5917
+20181,Sherman County,2020-07-30,12,0,Sherman,No Mask,5917
+20181,Sherman County,2020-07-31,14,2,Sherman,No Mask,5917
+20181,Sherman County,2020-08-01,14,0,Sherman,No Mask,5917
+20181,Sherman County,2020-08-02,14,0,Sherman,No Mask,5917
+20181,Sherman County,2020-08-03,15,1,Sherman,No Mask,5917
+20183,Smith County,2020-07-06,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-07,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-08,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-09,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-10,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-11,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-12,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-13,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-14,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-15,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-16,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-17,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-18,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-19,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-20,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-21,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-22,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-23,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-24,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-25,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-26,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-27,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-28,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-29,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-30,3,0,Smith,No Mask,3583
+20183,Smith County,2020-07-31,3,0,Smith,No Mask,3583
+20183,Smith County,2020-08-01,3,0,Smith,No Mask,3583
+20183,Smith County,2020-08-02,3,0,Smith,No Mask,3583
+20183,Smith County,2020-08-03,3,0,Smith,No Mask,3583
+20185,Stafford County,2020-07-06,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-07,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-08,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-09,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-10,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-11,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-12,1,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-13,2,1,Stafford,No Mask,4156
+20185,Stafford County,2020-07-14,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-15,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-16,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-17,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-18,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-19,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-20,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-21,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-22,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-23,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-24,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-25,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-26,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-27,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-28,2,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-29,3,1,Stafford,No Mask,4156
+20185,Stafford County,2020-07-30,3,0,Stafford,No Mask,4156
+20185,Stafford County,2020-07-31,3,0,Stafford,No Mask,4156
+20185,Stafford County,2020-08-01,3,0,Stafford,No Mask,4156
+20185,Stafford County,2020-08-02,3,0,Stafford,No Mask,4156
+20185,Stafford County,2020-08-03,3,0,Stafford,No Mask,4156
+20187,Stanton County,2020-07-06,12,2,Stanton,Mask,2006
+20187,Stanton County,2020-07-07,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-08,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-09,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-10,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-11,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-12,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-13,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-14,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-15,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-16,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-17,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-18,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-19,12,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-20,16,4,Stanton,Mask,2006
+20187,Stanton County,2020-07-21,16,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-22,17,1,Stanton,Mask,2006
+20187,Stanton County,2020-07-23,17,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-24,18,1,Stanton,Mask,2006
+20187,Stanton County,2020-07-25,18,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-26,18,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-27,21,3,Stanton,Mask,2006
+20187,Stanton County,2020-07-28,21,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-29,21,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-30,21,0,Stanton,Mask,2006
+20187,Stanton County,2020-07-31,23,2,Stanton,Mask,2006
+20187,Stanton County,2020-08-01,23,0,Stanton,Mask,2006
+20187,Stanton County,2020-08-02,23,0,Stanton,Mask,2006
+20187,Stanton County,2020-08-03,24,1,Stanton,Mask,2006
+20189,Stevens County,2020-07-06,32,1,Stevens,No Mask,5485
+20189,Stevens County,2020-07-07,32,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-08,32,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-09,32,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-10,33,1,Stevens,No Mask,5485
+20189,Stevens County,2020-07-11,33,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-12,33,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-13,36,3,Stevens,No Mask,5485
+20189,Stevens County,2020-07-14,36,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-15,36,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-16,36,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-17,39,3,Stevens,No Mask,5485
+20189,Stevens County,2020-07-18,39,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-19,39,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-20,39,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-21,39,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-22,40,1,Stevens,No Mask,5485
+20189,Stevens County,2020-07-23,40,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-24,40,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-25,40,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-26,40,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-27,41,1,Stevens,No Mask,5485
+20189,Stevens County,2020-07-28,41,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-29,43,2,Stevens,No Mask,5485
+20189,Stevens County,2020-07-30,43,0,Stevens,No Mask,5485
+20189,Stevens County,2020-07-31,43,0,Stevens,No Mask,5485
+20189,Stevens County,2020-08-01,43,0,Stevens,No Mask,5485
+20189,Stevens County,2020-08-02,43,0,Stevens,No Mask,5485
+20189,Stevens County,2020-08-03,44,1,Stevens,No Mask,5485
+20191,Sumner County,2020-07-06,16,3,Sumner,No Mask,22836
+20191,Sumner County,2020-07-07,16,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-08,17,1,Sumner,No Mask,22836
+20191,Sumner County,2020-07-09,17,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-10,26,9,Sumner,No Mask,22836
+20191,Sumner County,2020-07-11,26,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-12,26,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-13,48,22,Sumner,No Mask,22836
+20191,Sumner County,2020-07-14,48,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-15,49,1,Sumner,No Mask,22836
+20191,Sumner County,2020-07-16,49,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-17,58,9,Sumner,No Mask,22836
+20191,Sumner County,2020-07-18,58,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-19,58,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-20,72,14,Sumner,No Mask,22836
+20191,Sumner County,2020-07-21,72,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-22,72,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-23,72,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-24,78,6,Sumner,No Mask,22836
+20191,Sumner County,2020-07-25,78,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-26,78,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-27,88,10,Sumner,No Mask,22836
+20191,Sumner County,2020-07-28,88,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-29,92,4,Sumner,No Mask,22836
+20191,Sumner County,2020-07-30,92,0,Sumner,No Mask,22836
+20191,Sumner County,2020-07-31,97,5,Sumner,No Mask,22836
+20191,Sumner County,2020-08-01,97,0,Sumner,No Mask,22836
+20191,Sumner County,2020-08-02,97,0,Sumner,No Mask,22836
+20191,Sumner County,2020-08-03,98,1,Sumner,No Mask,22836
+20193,Thomas County,2020-07-06,16,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-07,16,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-08,17,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-09,17,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-10,17,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-11,17,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-12,17,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-13,18,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-14,18,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-15,19,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-16,19,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-17,19,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-18,19,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-19,19,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-20,23,4,Thomas,No Mask,7777
+20193,Thomas County,2020-07-21,23,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-22,23,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-23,23,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-24,25,2,Thomas,No Mask,7777
+20193,Thomas County,2020-07-25,25,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-26,25,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-27,26,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-28,26,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-29,27,1,Thomas,No Mask,7777
+20193,Thomas County,2020-07-30,27,0,Thomas,No Mask,7777
+20193,Thomas County,2020-07-31,29,2,Thomas,No Mask,7777
+20193,Thomas County,2020-08-01,29,0,Thomas,No Mask,7777
+20193,Thomas County,2020-08-02,29,0,Thomas,No Mask,7777
+20193,Thomas County,2020-08-03,29,0,Thomas,No Mask,7777
+20195,Trego County,2020-07-06,1,0,Trego,No Mask,2803
+20195,Trego County,2020-07-07,1,0,Trego,No Mask,2803
+20195,Trego County,2020-07-08,2,1,Trego,No Mask,2803
+20195,Trego County,2020-07-09,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-10,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-11,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-12,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-13,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-14,2,0,Trego,No Mask,2803
+20195,Trego County,2020-07-15,3,1,Trego,No Mask,2803
+20195,Trego County,2020-07-16,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-17,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-18,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-19,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-20,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-21,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-22,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-23,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-24,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-25,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-26,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-27,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-28,3,0,Trego,No Mask,2803
+20195,Trego County,2020-07-29,5,2,Trego,No Mask,2803
+20195,Trego County,2020-07-30,5,0,Trego,No Mask,2803
+20195,Trego County,2020-07-31,5,0,Trego,No Mask,2803
+20195,Trego County,2020-08-01,5,0,Trego,No Mask,2803
+20195,Trego County,2020-08-02,5,0,Trego,No Mask,2803
+20195,Trego County,2020-08-03,5,0,Trego,No Mask,2803
+20197,Wabaunsee County,2020-07-06,36,1,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-07,36,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-08,38,2,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-09,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-10,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-11,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-12,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-13,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-14,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-15,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-16,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-17,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-18,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-19,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-20,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-21,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-22,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-23,38,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-24,39,1,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-25,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-26,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-27,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-28,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-29,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-30,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-07-31,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-08-01,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-08-02,39,0,Wabaunsee,No Mask,6931
+20197,Wabaunsee County,2020-08-03,40,1,Wabaunsee,No Mask,6931
+20199,Wallace County,2020-07-06,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-07,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-08,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-09,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-10,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-11,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-12,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-13,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-14,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-15,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-16,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-17,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-18,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-19,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-20,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-21,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-22,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-23,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-24,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-25,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-26,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-27,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-28,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-29,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-30,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-07-31,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-08-01,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-08-02,0,0,Wallace,No Mask,1518
+20199,Wallace County,2020-08-03,0,0,Wallace,No Mask,1518
+20201,Washington County,2020-07-06,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-07,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-08,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-09,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-10,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-11,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-12,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-13,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-14,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-15,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-16,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-17,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-18,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-19,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-20,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-21,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-22,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-23,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-24,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-25,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-26,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-27,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-28,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-29,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-30,1,0,Washington,No Mask,5406
+20201,Washington County,2020-07-31,1,0,Washington,No Mask,5406
+20201,Washington County,2020-08-01,1,0,Washington,No Mask,5406
+20201,Washington County,2020-08-02,1,0,Washington,No Mask,5406
+20201,Washington County,2020-08-03,1,0,Washington,No Mask,5406
+20203,Wichita County,2020-07-06,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-07,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-08,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-09,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-10,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-11,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-12,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-13,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-14,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-15,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-16,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-17,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-18,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-19,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-20,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-21,0,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-22,1,1,Wichita,No Mask,2119
+20203,Wichita County,2020-07-23,1,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-24,2,1,Wichita,No Mask,2119
+20203,Wichita County,2020-07-25,2,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-26,2,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-27,2,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-28,2,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-29,3,1,Wichita,No Mask,2119
+20203,Wichita County,2020-07-30,3,0,Wichita,No Mask,2119
+20203,Wichita County,2020-07-31,3,0,Wichita,No Mask,2119
+20203,Wichita County,2020-08-01,3,0,Wichita,No Mask,2119
+20203,Wichita County,2020-08-02,3,0,Wichita,No Mask,2119
+20203,Wichita County,2020-08-03,4,1,Wichita,No Mask,2119
+20205,Wilson County,2020-07-06,4,2,Wilson,No Mask,8525
+20205,Wilson County,2020-07-07,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-08,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-09,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-10,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-11,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-12,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-13,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-14,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-15,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-16,4,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-17,5,1,Wilson,No Mask,8525
+20205,Wilson County,2020-07-18,5,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-19,5,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-20,7,2,Wilson,No Mask,8525
+20205,Wilson County,2020-07-21,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-22,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-23,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-24,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-25,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-26,7,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-27,8,1,Wilson,No Mask,8525
+20205,Wilson County,2020-07-28,8,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-29,8,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-30,8,0,Wilson,No Mask,8525
+20205,Wilson County,2020-07-31,9,1,Wilson,No Mask,8525
+20205,Wilson County,2020-08-01,9,0,Wilson,No Mask,8525
+20205,Wilson County,2020-08-02,9,0,Wilson,No Mask,8525
+20205,Wilson County,2020-08-03,9,0,Wilson,No Mask,8525
+20207,Woodson County,2020-07-06,9,1,Woodson,No Mask,3138
+20207,Woodson County,2020-07-07,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-08,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-09,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-10,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-11,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-12,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-13,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-14,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-15,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-16,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-17,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-18,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-19,9,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-20,10,1,Woodson,No Mask,3138
+20207,Woodson County,2020-07-21,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-22,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-23,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-24,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-25,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-26,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-27,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-28,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-29,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-30,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-07-31,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-08-01,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-08-02,10,0,Woodson,No Mask,3138
+20207,Woodson County,2020-08-03,10,0,Woodson,No Mask,3138
+20209,Wyandotte County,2020-07-06,2655,261,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-07,2655,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-08,2760,105,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-09,2790,30,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-10,2930,140,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-11,2939,9,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-12,3050,111,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-13,3169,119,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-14,3169,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-15,3391,222,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-16,3391,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-17,3433,42,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-18,3603,170,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-19,3655,52,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-20,3825,170,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-21,3933,108,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-22,3937,4,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-23,3937,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-24,4107,170,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-25,4107,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-26,4162,55,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-27,4287,125,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-28,4294,7,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-29,4439,145,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-30,4439,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-07-31,4587,148,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-08-01,4587,0,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-08-02,4596,9,Wyandotte,Mask,165429
+20209,Wyandotte County,2020-08-03,4711,115,Wyandotte,Mask,165429

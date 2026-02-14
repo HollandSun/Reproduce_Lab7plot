@@ -1,26 +1,6 @@
-# We attempted to find the original dataset behind the chart presented
-# by KDHE Secretary Dr. Lee Norman on August 5, 2020
-# However, we could not locate the exact dataset used to generate that chart
-# through publicly available channels.
-#
-# But a subsequent CDC study published in MMWR — Van Dyke et al. (2020),
-# "Trends in County-Level COVID-19 Incidence in Counties With and Without a
-# Mask Mandate — Kansas, June 1–August 23, 2020" — appears to involve the
-# same underlying data. This study was conducted in collaboration with the
-# Kansas Department of Health and Environment (KDHE) and classified counties
-# using data from the Kansas Health Institute (KHI).
-#
-# Regarding the source of case and population data, and 、
-# the classification of mask-mandate counties,
-# the paper all stated in thefootnot.
-#
-# So we tring to use the same dataset from USAfact webset(by the way it is also a good data visulization webset)
-# DATA SOURCES:
-#   Cases:      https://static.usafacts.org/public/data/covid-19/covid_confirmed_usafacts.csv
-#   Population: https://static.usafacts.org/public/data/covid-19/covid_county_population_usafacts.csv
-#   County classification: CDC MMWR, Van Dyke et al. (2020)
-
-#   https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm
+# Source:
+# Van Dyke, M. E., et al. (2020). Trends in County-Level COVID-19 Incidence in Counties With and Without a Mask Mandate — Kansas, June 1–August 23, 2020. MMWR, 69(47), 1777–1781. https://www.cdc.gov/mmwr/volumes/69/wr/mm6947e2.htm
+# USAFacts COVID-19 Data: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 
 
 library(tidyverse)
@@ -30,7 +10,6 @@ library(lubridate)
 cases_raw <- read_csv(
   "https://static.usafacts.org/public/data/covid-19/covid_confirmed_usafacts.csv",
   show_col_types = FALSE)
-
 # population data
 pop_raw <- read_csv(
   "https://static.usafacts.org/public/data/covid-19/covid_county_population_usafacts.csv",
@@ -63,10 +42,10 @@ kansas_daily <- kansas_cases %>%
   ungroup() %>%
   filter(!is.na(daily_new_cases))
 
-# --- Step 6: Define mask mandate counties ---
+# Define mask mandate counties
 # From CDC MMWR paper (Van Dyke et al., 2020), footnote we know the name of mandate countries
-# Note: USAFacts county names have " County" suffix (e.g., "Allen County"),
-# so we remove the suffix before matching.
+
+
 mask_county_names <- c("Allen", "Atchison", "Bourbon", "Crawford", "Dickinson",
                        "Douglas", "Franklin", "Geary", "Gove", "Harvey",
                        "Jewell", "Johnson", "Mitchell", "Montgomery", "Morris",

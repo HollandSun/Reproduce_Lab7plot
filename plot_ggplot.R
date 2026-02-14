@@ -50,11 +50,11 @@ p1 <- ggplot() +
     axis.text.y.left   = element_text(color = "darkorange"),
     axis.title.y.right = element_text(color = "steelblue", face = "bold", size = 12),
     axis.text.y.right  = element_text(color = "steelblue"),
-    axis.text.x        = element_text(angle = 90, hjust = 1, size = 7),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 7),
     plot.title         = element_text(face = "bold", size = 13, hjust = 0.5),
     plot.subtitle      = element_text(hjust = 0.5, size = 10),
     panel.grid.minor   = element_blank()
   )
 
 print(p1)
-ggsave("plot1_misleading_dual_axis.png", p1, width = 12, height = 6, dpi = 150)
+ggsave("misleading_plot.png", p1, width = 18, height = 9, dpi = 800)
