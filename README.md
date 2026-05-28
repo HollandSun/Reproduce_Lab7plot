@@ -1,4 +1,10 @@
 # lab07_betterviz
+The original motivation for creating this repository came from a [lab assignment](https://datascience4psych.github.io/DataScience4Psych/lab07.html). In that assignment, we were asked to “make up” a line plot that looked similar to the original figure by visually inspecting the data shown in the figure. I am not entirely sure whether this part of the assignment is still the same, since the course appears to be updated over time.
+
+Since the figure had a clear research context, and I thought if we know where these data came from, why not try to find the actual source? I ended up spending quite a bit of time tracking down the original data source. Eventually, I was able to locate the data and successfully reproduce the figure.
+
+I hope this repository may be useful for others who are interested in the dataset, the original figure, or the process of reproducing published visualizations from source data.
+
 ## Kansas COVID-19 Mask Mandate Visualization
 This repository reconstructs and examines the a controversial chart
 
